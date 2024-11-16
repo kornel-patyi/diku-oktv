@@ -1,0 +1,183 @@
+Forduló	Dátum	Hazai cs	Vendég cs	H-gól	V-gól	H1-gól	V1-gól	H2-gól	V2-gól			
+1. FORDULÓ	2023.09.02. 19:00	Vasas N	NEKA N	27	23	15	10	12	13			
+1. FORDULÓ	2023.09.02. 18:00	Kisvárda N	MTK Budapest N	28	25	14	15	14	10			
+1. FORDULÓ	2023.09.02. 18:00	Kozármisleny N	Vác N	23	26	14	14	9	12			
+1. FORDULÓ	2023.09.02. 17:30	Ferencvárosi TC N	Dunaújváros N	44	21	25	8	19	13			
+1. FORDULÓ	2023.09.02. 17:00	Budaörs N	Mosonmagyaróvár N	29	36	14	19	15	17			
+1. FORDULÓ	2023.09.01. 18:00	Alba Fehérvár N	DVSC SCHAEFFLER N	23	31	11	18	12	13			
+1. FORDULÓ	2023.08.30. 17:15	Gyõri ETO N	Békéscsaba N	37	23	16	13	21	10			
+2. FORDULÓ	2023.09.09. 18:00	Vác N	Kisvárda N	26	23	17	16	9	7			
+2. FORDULÓ	2023.09.09. 17:00	Dunaújváros N	Alba Fehérvár N	35	33	17	15	18	18			
+2. FORDULÓ	2023.09.09. 17:00	MTK Budapest N	Budaörs N	32	33	19	18	13	15			
+2. FORDULÓ	2023.09.09. 17:00	NEKA N	Kozármisleny N	30	26	16	14	14	12			
+2. FORDULÓ	2023.09.06. 18:00	Békéscsaba N	Ferencvárosi TC N	26	42	14	18	12	24			
+2. FORDULÓ	2023.09.06. 18:00	DVSC SCHAEFFLER N	Vasas N	31	23	12	11	19	12			
+2. FORDULÓ	2023.09.06. 18:00	Mosonmagyaróvár N	Gyõri ETO N	33	30	15	13	18	17			
+3. FORDULÓ	2023.09.16. 18:00	Kisvárda N	Kozármisleny N	26	22	12	12	14	10			
+3. FORDULÓ	2023.09.16. 18:00	Vasas N	Dunaújváros N	26	32	17	15	9	17			
+3. FORDULÓ	2023.09.16. 17:00	Budaörs N	Vác N	29	24	16	17	13	7			
+3. FORDULÓ	2023.09.15. 18:00	Alba Fehérvár N	Békéscsaba N	31	35	13	17	18	18			
+3. FORDULÓ	2023.09.13. 18:00	Ferencvárosi TC N	Mosonmagyaróvár N	30	27	15	13	15	14			
+3. FORDULÓ	2023.09.13. 18:00	Gyõri ETO N	MTK Budapest N	38	24	19	9	19	15			
+3. FORDULÓ	2023.09.13. 17:00	NEKA N	DVSC SCHAEFFLER N	19	30	7	12	12	18			
+4. FORDULÓ	2023.09.23. 18:00	Békéscsaba N	Vasas N	23	26	13	12	10	14			
+4. FORDULÓ	2023.09.23. 18:00	Kisvárda N	NEKA N	24	23	13	12	11	11			
+4. FORDULÓ	2023.09.23. 18:00	Kozármisleny N	Budaörs N	30	27	13	12	17	15			
+4. FORDULÓ	2023.09.22. 18:00	Mosonmagyaróvár N	Alba Fehérvár N	34	22	20	10	14	12			
+4. FORDULÓ	2023.09.20. 18:30	Vác N	Gyõri ETO N	22	38	11	20	11	18			
+4. FORDULÓ	2023.09.20. 18:00	MTK Budapest N	Ferencvárosi TC N	19	41	10	22	9	19			
+4. FORDULÓ	2023.09.20. 17:00	DVSC SCHAEFFLER N	Dunaújváros N	31	19	16	7	15	12			
+5. FORDULÓ	2023.10.06. 18:00	Alba Fehérvár N	MTK Budapest N	29	29	15	14	14	15			
+5. FORDULÓ	2023.10.06. 18:00	DVSC SCHAEFFLER N	Békéscsaba N	29	29	15	14	14	15			
+5. FORDULÓ	2023.10.06. 18:00	Vasas N	Mosonmagyaróvár N	28	37	12	17	16	20			
+5. FORDULÓ	2023.10.07. 16:00	Gyõri ETO N	Kozármisleny N	41	17	18	9	23	8			
+5. FORDULÓ	2023.10.07. 16:00	NEKA N	Dunaújváros N	26	21	10	6	16	15			
+5. FORDULÓ	2023.10.07. 17:00	Budaörs N	Kisvárda N	29	29	13	13	16	16			
+5. FORDULÓ	2023.10.07. 17:00	Ferencvárosi TC N	Vác N	31	25	14	17	17	8			
+6. FORDULÓ	2023.09.27. 18:00	Kisvárda N	Gyõri ETO N	23	26	13	12	10	14			
+6. FORDULÓ	2023.10.18. 18:00	Ferencvárosi TC N	Kozármisleny N	46	23	22	13	24	10			
+6. FORDULÓ	2023.10.18. 18:00	Mosonmagyaróvár N	DVSC SCHAEFFLER N	30	23	14	9	16	14			
+6. FORDULÓ	2023.10.20. 18:00	Békéscsaba N	Dunaújváros N	26	29	15	16	11	13			
+6. FORDULÓ	2023.10.21. 15:30	MTK Budapest N	Vasas N	26	26	16	11	10	15			
+6. FORDULÓ	2023.10.21. 17:00	Budaörs N	NEKA N	29	25	16	14	13	11			
+6. FORDULÓ	2023.10.21. 18:00	Vác N	Alba Fehérvár N	28	26	17	13	11	13			
+7. FORDULÓ	2023.10.25. 18:00	Budaörs N	Gyõri ETO N	18	37	9	20	9	17			
+7. FORDULÓ	2023.10.25. 18:00	DVSC SCHAEFFLER N	MTK Budapest N	39	29	20	14	19	15			
+7. FORDULÓ	2023.10.25. 18:00	Ferencvárosi TC N	Kisvárda N	40	25	21	14	19	11			
+7. FORDULÓ	2023.10.27. 17:30	Dunaújváros N	Mosonmagyaróvár N	24	40	11	20	13	20			
+7. FORDULÓ	2023.10.28. 17:00	NEKA N	Békéscsaba N	19	23	11	13	8	10			
+7. FORDULÓ	2023.10.28. 18:00	Vasas N	Vác N	26	23	15	13	11	10			
+7. FORDULÓ	2023.10.29. 19:00	Alba Fehérvár N	Kozármisleny N	33	22	18	10	15	12			
+8. FORDULÓ	2023.11.10. 18:00	Mosonmagyaróvár N	Békéscsaba N									
+8. FORDULÓ	2023.11.11. 18:00	Kozármisleny N	Vasas N									
+8. FORDULÓ	2023.11.12. 18:00	Budaörs N	Ferencvárosi TC N									
+8. FORDULÓ	2023.11.12. 18:00	Gyõri ETO N	NEKA N									
+8. FORDULÓ	2023.11.12. 18:00	Kisvárda N	Alba Fehérvár N									
+8. FORDULÓ	2023.11.12. 18:00	MTK Budapest N	Dunaújváros N									
+8. FORDULÓ	2023.11.12. 18:00	Vác N	DVSC SCHAEFFLER N									
+9. FORDULÓ	2023.11.01. 17:00	Dunaújváros N	Vác N									
+9. FORDULÓ	2023.11.15. 18:00	Ferencvárosi TC N	Gyõri ETO N									
+9. FORDULÓ	2023.11.18. 18:00	Békéscsaba N	MTK Budapest N									
+9. FORDULÓ	2023.11.19. 18:00	Alba Fehérvár N	Budaörs N									
+9. FORDULÓ	2023.11.19. 18:00	DVSC SCHAEFFLER N	Kozármisleny N									
+9. FORDULÓ	2023.11.19. 18:00	NEKA N	Mosonmagyaróvár N									
+9. FORDULÓ	2023.11.19. 18:00	Vasas N	Kisvárda N									
+10. FORDULÓ	2023.12.30. 17:00	MTK Budapest N	Mosonmagyaróvár N									
+10. FORDULÓ	2023.12.30. 18:00	Budaörs N	Vasas N									
+10. FORDULÓ	2023.12.30. 18:00	Ferencvárosi TC N	NEKA N									
+10. FORDULÓ	2023.12.30. 18:00	Gyõri ETO N	Alba Fehérvár N									
+10. FORDULÓ	2023.12.30. 18:00	Kisvárda N	DVSC SCHAEFFLER N									
+10. FORDULÓ	2023.12.30. 18:00	Kozármisleny N	Dunaújváros N									
+10. FORDULÓ	2023.12.30. 18:00	Vác N	Békéscsaba N									
+11. FORDULÓ	2023.09.28. 18:00	Mosonmagyaróvár N	Vác N	31	26	16	12	15	14			
+11. FORDULÓ	2023.10.04. 18:00	Vasas N	Gyõri ETO N	20	40	8	20	12	20			
+11. FORDULÓ	2024.01.13. 17:00	NEKA N	MTK Budapest N									
+11. FORDULÓ	2024.01.13. 18:00	Békéscsaba N	Kozármisleny N									
+11. FORDULÓ	2024.01.14. 18:00	Alba Fehérvár N	Ferencvárosi TC N									
+11. FORDULÓ	2024.01.14. 18:00	Dunaújváros N	Kisvárda N									
+11. FORDULÓ	2024.01.14. 18:00	DVSC SCHAEFFLER N	Budaörs N									
+12. FORDULÓ	2024.01.20. 18:00	Vác N	MTK Budapest N									
+12. FORDULÓ	2024.01.21. 18:00	Alba Fehérvár N	NEKA N									
+12. FORDULÓ	2024.01.21. 18:00	Budaörs N	Dunaújváros N									
+12. FORDULÓ	2024.01.21. 18:00	Ferencvárosi TC N	Vasas N									
+12. FORDULÓ	2024.01.21. 18:00	Gyõri ETO N	DVSC SCHAEFFLER N									
+12. FORDULÓ	2024.01.21. 18:00	Kisvárda N	Békéscsaba N									
+12. FORDULÓ	2023.10.18. 18:00	Kozármisleny N	Mosonmagyaróvár N	20	35	9	17	11	18			
+13. FORDULÓ	2024.01.27. 17:00	MTK Budapest N	Kozármisleny N									
+13. FORDULÓ	2024.01.27. 17:00	NEKA N	Vác N									
+13. FORDULÓ	2024.01.28. 18:00	Békéscsaba N	Budaörs N									
+13. FORDULÓ	2024.01.28. 18:00	Dunaújváros N	Gyõri ETO N									
+13. FORDULÓ	2024.01.28. 18:00	DVSC SCHAEFFLER N	Ferencvárosi TC N									
+13. FORDULÓ	2024.01.28. 18:00	Mosonmagyaróvár N	Kisvárda N									
+13. FORDULÓ	2024.01.28. 18:00	Vasas N	Alba Fehérvár N									
+14. FORDULÓ	2024.02.10. 15:30	MTK Budapest N	Kisvárda N									
+14. FORDULÓ	2024.02.10. 16:00	NEKA N	Vasas N									
+14. FORDULÓ	2024.02.10. 18:00	Vác N	Kozármisleny N									
+14. FORDULÓ	2024.02.11. 18:00	Békéscsaba N	Gyõri ETO N									
+14. FORDULÓ	2024.02.11. 18:00	Dunaújváros N	Ferencvárosi TC N									
+14. FORDULÓ	2024.02.11. 18:00	DVSC SCHAEFFLER N	Alba Fehérvár N									
+14. FORDULÓ	2024.02.11. 18:00	Mosonmagyaróvár N	Budaörs N									
+15. FORDULÓ	2024.02.14. 18:00	Gyõri ETO N	Mosonmagyaróvár N									
+15. FORDULÓ	2024.02.17. 18:00	Kozármisleny N	NEKA N									
+15. FORDULÓ	2024.02.18. 18:00	Alba Fehérvár N	Dunaújváros N									
+15. FORDULÓ	2024.02.18. 18:00	Budaörs N	MTK Budapest N									
+15. FORDULÓ	2024.02.18. 18:00	Ferencvárosi TC N	Békéscsaba N									
+15. FORDULÓ	2024.02.18. 18:00	Kisvárda N	Vác N									
+15. FORDULÓ	2024.02.18. 18:00	Vasas N	DVSC SCHAEFFLER N									
+16. FORDULÓ	2024.02.22. 18:00	MTK Budapest N	Gyõri ETO N									
+16. FORDULÓ	2024.02.23. 18:00	Békéscsaba N	Alba Fehérvár N									
+16. FORDULÓ	2024.02.23. 18:00	Dunaújváros N	Vasas N									
+16. FORDULÓ	2024.02.23. 18:00	DVSC SCHAEFFLER N	NEKA N									
+16. FORDULÓ	2024.02.23. 18:00	Kozármisleny N	Kisvárda N									
+16. FORDULÓ	2024.02.23. 18:00	Mosonmagyaróvár N	Ferencvárosi TC N									
+16. FORDULÓ	2024.02.23. 18:00	Vác N	Budaörs N									
+17. FORDULÓ	2024.03.23. 16:00	NEKA N	Kisvárda N									
+17. FORDULÓ	2024.03.23. 18:00	Vasas N	Békéscsaba N									
+17. FORDULÓ	2024.03.24. 18:00	Alba Fehérvár N	Mosonmagyaróvár N									
+17. FORDULÓ	2024.03.24. 18:00	Budaörs N	Kozármisleny N									
+17. FORDULÓ	2024.03.24. 18:00	Dunaújváros N	DVSC SCHAEFFLER N									
+17. FORDULÓ	2024.03.24. 18:00	Ferencvárosi TC N	MTK Budapest N									
+17. FORDULÓ	2024.03.24. 18:00	Gyõri ETO N	Vác N									
+18. FORDULÓ	2024.03.28. 18:00	Békéscsaba N	DVSC SCHAEFFLER N									
+18. FORDULÓ	2024.03.28. 18:00	Dunaújváros N	NEKA N									
+18. FORDULÓ	2024.03.28. 18:00	Kisvárda N	Budaörs N									
+18. FORDULÓ	2024.03.28. 18:00	Kozármisleny N	Gyõri ETO N									
+18. FORDULÓ	2024.03.28. 18:00	Mosonmagyaróvár N	Vasas N									
+18. FORDULÓ	2024.03.28. 18:00	MTK Budapest N	Alba Fehérvár N									
+18. FORDULÓ	2024.03.28. 18:00	Vác N	Ferencvárosi TC N									
+19. FORDULÓ	2024.04.20. 18:00	Kozármisleny N	Ferencvárosi TC N									
+19. FORDULÓ	2024.04.21. 18:00	Alba Fehérvár N	Vác N									
+19. FORDULÓ	2024.04.21. 18:00	Dunaújváros N	Békéscsaba N									
+19. FORDULÓ	2024.04.21. 18:00	DVSC SCHAEFFLER N	Mosonmagyaróvár N									
+19. FORDULÓ	2024.04.21. 18:00	Gyõri ETO N	Kisvárda N									
+19. FORDULÓ	2024.04.21. 18:00	NEKA N	Budaörs N									
+19. FORDULÓ	2024.04.21. 18:00	Vasas N	MTK Budapest N									
+20. FORDULÓ	2024.03.16. 16:00	Gyõri ETO N	Budaörs N									
+20. FORDULÓ	2024.04.27. 18:00	Vác N	Vasas N									
+20. FORDULÓ	2024.04.28. 18:00	Békéscsaba N	NEKA N									
+20. FORDULÓ	2024.04.28. 18:00	Kisvárda N	Ferencvárosi TC N									
+20. FORDULÓ	2024.04.28. 18:00	Kozármisleny N	Alba Fehérvár N									
+20. FORDULÓ	2024.04.28. 18:00	Mosonmagyaróvár N	Dunaújváros N									
+20. FORDULÓ	2024.04.28. 18:00	MTK Budapest N	DVSC SCHAEFFLER N									
+21. FORDULÓ	2024.05.04. 18:00	Békéscsaba N	Mosonmagyaróvár N									
+21. FORDULÓ	2024.05.04. 18:00	Vasas N	Kozármisleny N									
+21. FORDULÓ	2024.05.05. 18:00	Alba Fehérvár N	Kisvárda N									
+21. FORDULÓ	2024.05.05. 18:00	Dunaújváros N	MTK Budapest N									
+21. FORDULÓ	2024.05.05. 18:00	DVSC SCHAEFFLER N	Vác N									
+21. FORDULÓ	2024.05.05. 18:00	Ferencvárosi TC N	Budaörs N									
+21. FORDULÓ	2024.05.05. 18:00	NEKA N	Gyõri ETO N									
+22. FORDULÓ	2024.05.11. 17:00	MTK Budapest N	Békéscsaba N									
+22. FORDULÓ	2024.05.12. 18:00	Budaörs N	Alba Fehérvár N									
+22. FORDULÓ	2024.05.12. 18:00	Gyõri ETO N	Ferencvárosi TC N									
+22. FORDULÓ	2024.05.12. 18:00	Kisvárda N	Vasas N									
+22. FORDULÓ	2024.05.12. 18:00	Kozármisleny N	DVSC SCHAEFFLER N									
+22. FORDULÓ	2024.05.12. 18:00	Mosonmagyaróvár N	NEKA N									
+22. FORDULÓ	2024.05.12. 18:00	Vác N	Dunaújváros N									
+23. FORDULÓ	2024.05.15. 18:00	Alba Fehérvár N	Gyõri ETO N									
+23. FORDULÓ	2024.05.15. 18:00	Békéscsaba N	Vác N									
+23. FORDULÓ	2024.05.15. 18:00	Dunaújváros N	Kozármisleny N									
+23. FORDULÓ	2024.05.15. 18:00	DVSC SCHAEFFLER N	Kisvárda N									
+23. FORDULÓ	2024.05.15. 18:00	Mosonmagyaróvár N	MTK Budapest N									
+23. FORDULÓ	2024.05.15. 18:00	NEKA N	Ferencvárosi TC N									
+23. FORDULÓ	2024.05.15. 18:00	Vasas N	Budaörs N									
+24. FORDULÓ	2024.05.18. 18:00	Kozármisleny N	Békéscsaba N									
+24. FORDULÓ	2024.05.18. 18:00	Vác N	Mosonmagyaróvár N									
+24. FORDULÓ	2024.05.19. 15:30	MTK Budapest N	NEKA N									
+24. FORDULÓ	2024.05.19. 18:00	Budaörs N	DVSC SCHAEFFLER N									
+24. FORDULÓ	2024.05.19. 18:00	Ferencvárosi TC N	Alba Fehérvár N									
+24. FORDULÓ	2024.05.19. 18:00	Gyõri ETO N	Vasas N									
+24. FORDULÓ	2024.05.19. 18:00	Kisvárda N	Dunaújváros N									
+25. FORDULÓ	2024.05.22. 18:00	Békéscsaba N	Kisvárda N									
+25. FORDULÓ	2024.05.22. 18:00	Dunaújváros N	Budaörs N									
+25. FORDULÓ	2024.05.22. 18:00	DVSC SCHAEFFLER N	Gyõri ETO N									
+25. FORDULÓ	2024.05.22. 18:00	Mosonmagyaróvár N	Kozármisleny N									
+25. FORDULÓ	2024.05.22. 18:00	MTK Budapest N	Vác N									
+25. FORDULÓ	2024.05.22. 18:00	NEKA N	Alba Fehérvár N									
+25. FORDULÓ	2024.05.22. 18:00	Vasas N	Ferencvárosi TC N									
+26. FORDULÓ	2024.05.25. 18:00	Kozármisleny N	MTK Budapest N									
+26. FORDULÓ	2024.05.25. 18:00	Vác N	NEKA N									
+26. FORDULÓ	2024.05.26. 18:00	Alba Fehérvár N	Vasas N									
+26. FORDULÓ	2024.05.26. 18:00	Budaörs N	Békéscsaba N									
+26. FORDULÓ	2024.05.26. 18:00	Ferencvárosi TC N	DVSC SCHAEFFLER N									
+26. FORDULÓ	2024.05.26. 18:00	Gyõri ETO N	Dunaújváros N									
+26. FORDULÓ	2024.05.26. 18:00	Kisvárda N	Mosonmagyaróvár N									

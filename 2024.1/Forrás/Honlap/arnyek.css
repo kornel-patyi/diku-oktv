@@ -1,0 +1,6 @@
+/* címsorok beállításai */
+h1,h2 {
+    text-shadow: 5px 5px #d8d8d8;
+}
+
+table {box-shadow: 10px 10px #d8d8d8;}

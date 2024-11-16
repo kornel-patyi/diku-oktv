@@ -1,0 +1,66 @@
+/* címsorok beállításai */
+h1,h2 {
+    text-shadow: 5px 5px #d8d8d8;
+}
+
+table {box-shadow: 10px 10px #d8d8d8;}
+
+
+:root {
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-image: url("src/kezipalya.jpg");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 80%;
+    padding: 20px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    color: RGB(170, 90, 38);
+    text-align: center;
+}
+
+img {
+    float:right;
+    width: 130px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+figure > * {
+    margin: 0 auto;
+}
+figcaption {
+    margin-top: 15px;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 5px;
+    border: 2px solid #AA5A26;
+}
+td {
+    background-color: #E8EEC4;
+}
+th {
+    background-color: #e09838;
+}
