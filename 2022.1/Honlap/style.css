@@ -1,0 +1,48 @@
+body {
+    background-image: url("src/tengerpart.jpg");
+    font-family: Arial, sans-serif;
+}
+
+main {
+    width: 1100px;
+    padding: 10px;
+    border: 1px solid #284555;
+    display: grid;
+    grid-template-columns: 700px 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+div.data {
+    background-color: #e8f7fe;
+    padding: 5px;
+}
+
+h1 {
+    color: #284555;
+}
+h2 {
+    color: #388ec0;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #9ddbff;
+}
+
+td, th {
+    padding: 3px;
+    border: 1px solid #388ec0;
+}
+
+th {
+    text-align: left;
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+}
