@@ -1,0 +1,65 @@
+A hidrológiai körfolyamat és a vízkészletek1
+A hidrológia körfolyamat (1. ábra) során a víz három globális hidrológiai rendszerben tározódik: 
+* légkör 
+* szárazföldek 
+* világóceán: az óceánok és a tengerek összessége 
+A szárazföldeken az alábbi víztározási helyek fordulnak elõ: 
+* a terep felszínén lefolyás közben 
+* a terep felszínén hó és jég formájában 
+* tavakban 
+* patak és folyómedrekben 
+* felszín alatt: talajnedvesség, talajvíz, rétegvíz, hasadékvíz 
+
+1. ábra: A hidrológiai körfolyamat.
+* A Föld teljes vízkészletét 2 milliárd km3-re becsülik. Ez a vízkészlet a Föld, mint égitest kialakulása óta változatlan, és a Föld teljes tömegének 1%-a. 
+* Ezen vízkészletnek mintegy 37%-a kémiailag kötött víz, a szabad vízkészlet 1,36 milliárd km3-re tehetõ. 
+* A szabad vízkészletek mintegy 97 %-a sós tengervíz, és a 3%-ra tehetõ édesvíz jelentõs része (2,14%) a sarki jégtakarókban, illetve a gleccserekben fordul elõ. 
+* 0,001% felhõk, köd, vízgõz 
+* Így a teljes vízkészletnek csupán 0,03%-a (8,7 millió km3) a ténylegesen hasznosítható, hozzáférhetõ édesvíz. 
+* Ennek 3%-a felszíni, 97%-a talajvíz (1. táblázat) 
+1. táblázat: A földi vízformák 
+Hidroszféra rész	Mennyiség (1000 km3)	Összes víz %-ában	Édesvizek %-ában
+Világóceánok 	1338000	96.5 	?
+Felszín alatti víz 	Össz. 	23400	1.7 	?
+	Édesvíz 	10530	0.76 	30.1 
+Talajnedvesség 	16.5 	0.001 	0.05 
+Jég, hó 	24364.1 	1.766 	69.56 
+Tavak 	édesvizû 	91	0.007 	0.26 
+	sósvizû 	85.4	0.006 	?
+Mocsarak 	11.5	0.0008 	0.03 
+Folyóvizek 	2.1	0.0002 	0.006 
+Élõlények 	1,1	0.0001 	0.0003 
+Légkör 	12.9	0.001 	0.04 
+Magyarország vízháztartása 
+Az átlagos évi vízforgalom jellemzõ adatai a következõk (2-3. ábra és 2. táblázat): 
+* az ország területére hulló csapadék 58 km3 
+* a belépõ vízfolyások vízszállítása 114 km3 
+* az ország területén elpárolgó víz 52 km3 
+* a kilépõ vízfolyások vízszállítása 120 km3 
+Az elmúlt évek csapadékhiánya és a vízfolyások felsõ szakaszán létesült tározók következtében mind a belépõ, mind a kilépõ vízhozamok csökkenõ tendenciát mutatnak. 
+2. ábra: Magyarország vízháztartása3. ábra: A be- és kilépõ felszíni vizek2. táblázat: Magyarország vízháztartása 
+Beérkezõ víz (km3/év) 	114	
+Távozó víz (km3/év) 	120	
+Csapadékvíz (km3/év) 	58	Felszíni vízbe 	4,5
+		Felszín alatti vízbe 	3,5
+		Talaj és növényzet 	50
+Párolgó víz (km3/év) 	52	Talajból és növényzetbõl 	50
+		Vízhasználat során 	0,6
+		Felszíni vizekbõl 	1,4
+Felszíni vízbe jut (km3/év) 	14,4	Csapadékból 	4,5
+		Vízhasználatokból 	6,8
+		Felszín alatti vízbõl 	3,1
+Vízhasználatok (km3/év) 	7,4	Felszín alatti vízbõl 	2
+		Felszíni vízbõl 	5,4
+Felszíni vízbõl távozik (km3/év) 	8,4	Vízhasználattal 	5,4
+		Párolgással 	1,4
+		Felszín alatti vízbe 	1,6
+
+http://www.agr.unideb.hu/ebook/vizminoseg/a_hidrolgiai_krfolyamat_s_a_vzkszletek.html
+
+A hidrológiai körfolyamat és a vízkészletek
+
+
+
+
+

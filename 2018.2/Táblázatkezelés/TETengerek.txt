@@ -1,0 +1,47 @@
+Korall-tenger|4.791|Csendes-óceán
+Arab-tenger|3.683|Indiai-óceán
+Földközi-tenger|2.969|Atlanti-óceán
+Weddell-tenger|2.890|Déli-óceán
+Karib (Antilla)-tenger|2.754|Atlanti-óceán
+Dél-kínai-tenger|2.319|Csendes-óceán
+Bering-tenger|2.268|Csendes-óceán
+Bengál-öböl|2.172|Indiai-óceán
+Mexikói-öböl|1.543|Atlanti-óceán
+Ohotszki-tenger|1.528|Csendes-óceán
+Barents-tenger|1.405|Jeges-tenger
+Norvég-tenger|1.383|Atlanti-óceán
+Kelet-kínai-tenger|1.249|Csendes-óceán
+Hudson-öböl|1.232|Atlanti-óceán
+Grönlandi-tenger|1.205|Jeges-tenger
+Arafura-tenger|1.037|Csendes-óceán
+Japán-tenger|1.008|Csendes-óceán
+Ross-tenger|978|Déli-óceán
+Kelet-szibériai-tenger|936|Jeges-tenger
+Kara-tenger|883|Jeges-tenger
+Andamán-tenger|798|Indiai-óceán
+Banda-tenger|695|Csendes-óceán
+Laptyev-tenger|650|Jeges-tenger
+Timor-tenger|615|Csendes-óceán
+Északi-tenger|575|Atlanti-óceán
+Jón-tenger|575|Atlanti-óceán
+Baffin-öböl|525|Atlanti-óceán
+Nagy-Ausztráliai-öböl|494|Déli-óceán
+Jáva-tenger|480|Indiai-óceán
+Vörös-tenger|438|Indiai-óceán
+Fekete-tenger|423|Atlanti-óceán
+Sárga-tenger|417|Csendes-óceán
+Balti-tenger|414|Atlanti-óceán
+Tirrén-tenger|240|Atlanti-óceán
+Perzsa (Arab)-öböl|239|Indiai-óceán
+Szent Lõrinc-öböl|238|Atlanti-óceán
+Égei-tenger|190|Atlanti-óceán
+Seram-tenger|187|Csendes-óceán
+Kaliforniai-öböl|177|Csendes-óceán
+Adriai-tenger|132|Atlanti-óceán
+Flores-tenger|121|Csendes-óceán
+Sawu-tenger|105|Csendes-óceán
+Ír-tenger|103|Atlanti-óceán
+Fehér-tenger|90|Jeges-tenger
+Azovi-tenger|38|Atlanti-óceán
+Maracaibói-öböl|16|Atlanti-óceán
+Márvány-tenger|11|Atlanti-óceán
