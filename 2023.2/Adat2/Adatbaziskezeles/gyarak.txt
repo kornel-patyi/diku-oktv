@@ -1,0 +1,148 @@
+﻿Azonosító;Helyszín;Ország;Kapacitás;Kemencék;Típus
+1;Graz;Ausztria;365;1;Ívfényes
+2;Kapfenberg;Ausztria;180;1;Ívfényes
+3;Mitterdorf;Ausztria;300;1;Ívfényes
+4;Charleroi;Belgium;850;1;Ívfényes
+5;Charleroi (Marchienne-au-Pont);Belgium;350;1;Ívfényes
+6;Chatelet (Chatelineau);Belgium;1200;2;Ívfényes
+7;Genk;Belgium;1200;2;Ívfényes
+8;Pernik;Bulgária;1000;2;Ívfényes
+9;Sisak;Horvátország;350;1;Ívfényes
+10;Split;Horvátország;185;1;Ívfényes
+11;Ostrava;Csehország;120;1;Ívfényes
+12;Plzen;Csehország;150;2;Ívfényes
+13;Imatra;Finnország;360;1;Ívfényes
+14;Tornio;Finnország;1300;2;Ívfényes
+15;Bayonne (Boucau);Franciaország;1200;1;Ívfényes
+16;Bonnieres-sur-Seine;Franciaország;550;1;Ívfényes
+17;Chateauneuf, R. de;Franciaország;100;1;Ívfényes
+18;Giers Fos-sur-Mer;Franciaország;480;1;Ívfényes
+19;Gargenville;Franciaország;700;1;Ívfényes
+20;Hagondange;Franciaország;460;1;Ívfényes
+21;Imphy;Franciaország;90;1;Ívfényes
+22;Le Creusot;Franciaország;150;1;Ívfényes
+23;Montereau;Franciaország;720;1;Ívfényes
+24;Nouvelles Maisons;Franciaország;800;1;Ívfényes
+25;St.Saulve;Franciaország;730;1;Ívfényes
+26;Trith St Leger;Franciaország;800;1;Ívfényes
+27;Ugine;Franciaország;250;2;Ívfényes
+28;Bous/Saar;Németország;350;1;Ívfényes
+29;Brandenburg;Németország;1800;2;Ívfényes
+30;Freital;Németország;90;1;Ívfényes
+31;Georgsmarienhuette;Németország;1100;1;Ívfényes
+32;Groditz;Németország;100;1;Ívfényes
+33;Hamburg;Németország;1100;1;Ívfényes
+34;Hennigsdorf;Németország;1000;2;Ívfényes
+35;Herbertshofen;Németország;1180;2;Ívfényes
+36;Kehl;Németország;2500;2;Ívfényes
+37;Lingen;Németország;620;1;Ívfényes
+38;Peine;Németország;1000;1;Ívfényes
+39;Riesa ;Németország;900;1;Ívfényes
+40;Siegen;Németország;600;1;Ívfényes
+41;Siegen;Németország;150;1;Ívfényes
+42;Unterwellenborn;Németország;1100;1;Ívfényes
+43;Völklingen;Németország;300;1;Ívfényes
+44;Wetzlar;Németország;400;1;Ívfényes
+45;Witten;Németország;480;1;Ívfényes
+46;Almyros-Magnesia;Görögország;400;1;Ívfényes
+47;Aspropyrgos;Görögország;400;1;Ívfényes
+48;Elefsina;Görögország;800;1;Ívfényes
+49;Thessaloniki;Görögország;600;1;Ívfényes
+50;Velestino;Görögország;450;1;Ívfényes
+51;Ozd;Magyarország;400;1;Ívfényes
+52;Bolzano;Olaszország;200;2;Ívfényes
+53;Aosta;Olaszország;260;1;Ívfényes
+54;Borgo Valsugana, TN;Olaszország;600;1;Ívfényes
+55;Bréno, BS;Olaszország;100;1;Ívfényes
+56;Brescia, BS;Olaszország;1200;2;Ívfényes
+57;Brescia, BS;Olaszország;650;1;Ívfényes
+58;Camin, Padova;Olaszország;600;1;Ívfényes
+59;Caronno, VA;Olaszország;780;1;Ívfényes
+60;Catania, Szicília;Olaszország;500;1;Ívfényes
+61;Cividate al Piano, BG;Olaszország;250;2;Ívfényes
+62;Cremona;Olaszország;3850;2;Ívfényes
+63;Dalmine, BG;Olaszország;700;1;Ívfényes
+64;Lesegno, CN;Olaszország;600;1;Ívfényes
+65;Lonato, BS;Olaszország;1100;1;Ívfényes
+66;Lonato, BS;Olaszország;600;1;Ívfényes
+67;Lovere, BG;Olaszország;150;1;Ívfényes
+68;Odolo, BS;Olaszország;900;1;Ívfényes
+69;Osoppo, UD;Olaszország;2200;1;Ívfényes
+70;Ospitaletto, BS;Olaszország;150;1;Ívfényes
+71;San Zeno Naviglio, BS;Olaszország;800;1;Ívfényes
+72;Sarezzo, BS;Olaszország;540;1;Ívfényes
+73;Terni;Olaszország;1450;2;Ívfényes
+74;Udine;Olaszország;500;1;Ívfényes
+75;Udine;Olaszország;770;1;Ívfényes
+76;Vallese d'Oppeano, VR;Olaszország;450;1;Ívfényes
+77;Verona, VR;Olaszország;1250;2;Ívfényes
+78;Vicenza;Olaszország;170;1;Ívfényes
+79;Vicenza, VL;Olaszország;1200;1;Ívfényes
+80;Esch-Sur-Alzette;Luxemburg;2250;2;Ívfényes
+81;Chorzow;Lengyelország;145;1;Ívfényes
+82;Czestochowa;Lengyelország;800;1;Ívfényes
+83;Gliwice;Lengyelország;250;1;Ívfényes
+84;Katowice;Lengyelország;65;1;Ívfényes
+85;Ostrowiec;Lengyelország;900;1;Ívfényes
+86;Stalowa Wola;Lengyelország;240;1;Ívfényes
+87;Warszawa;Lengyelország;750;1;Ívfényes
+88;Zawiercie;Lengyelország;240;2;Ívfényes
+89;Maia (Porto);Portugália;1100;1;Ívfényes
+90;Seixal;Portugália;1100;1;Ívfényes
+91;Calarasi;Románia;470;1;Ívfényes
+92;Hunedoara;Románia;550;1;Ívfényes
+93;Otelu Rosu;Románia;830;1;Ívfényes
+94;Resita;Románia;450;1;Ívfényes
+95;Podbrezova;Szlovákia;350;1;Ívfényes
+96;Celje-Store;Szlovénia;150;1;Ívfényes
+97;Jesenice;Szlovénia;500;1;Ívfényes
+98;Ravne;Szlovénia;140;1;Ívfényes
+99;Amurrio, Alava;Spanyolország;150;1;Ívfényes
+100;Amurrio, Alava;Spanyolország;360;1;Ívfényes
+101;Azpeitia;Spanyolország;800;1;Ívfényes
+102;Basauri, Vizcaya;Spanyolország;740;1;Ívfényes
+103;Bilbao;Spanyolország;1100;1;Ívfényes
+104;Castellbisbal, Barcelona;Spanyolország;2400;2;Ívfényes
+105;Galindo, Vizcaya;Spanyolország;400;1;Ívfényes
+106;Getafe, Madrid;Spanyolország;1300;1;Ívfényes
+107;Jerez de los Caballeros II;Spanyolország;1300;1;Ívfényes
+108;Loiu, Vizcaya;Spanyolország;130;3;Ívfényes
+109;Los Barrios, Cadiz;Spanyolország;1200;3;Ívfényes
+110;Naron, La Coruna;Spanyolország;700;1;Ívfényes
+111;Olaberria;Spanyolország;2450;1;Ívfényes
+112;Reinosa, Cantabria;Spanyolország;240;1;Ívfényes
+113;Santander, Cantabria;Spanyolország;750;1;Ívfényes
+114;Sestao, Bilbao;Spanyolország;2000;2;Ívfényes
+115;Sevilla;Spanyolország;1300;2;Ívfényes
+116;Zaragoza;Spanyolország;500;1;Ívfényes
+117;Avesta;Svédország;500;1;Ívfényes
+118;Björneborg;Svédország;95;1;Ívfényes
+119;Hagfors;Svédország;120;1;Ívfényes
+120;Hofors;Svédország;500;1;Ívfényes
+121;Sandviken;Svédország;200;1;Ívfényes
+122;Smedjebacken;Svédország;480;1;Ívfényes
+123;Donawitz (Leoben);Ausztria;1570;2;Oxigénbefúvásos
+124;Linz;Ausztria;6000;3;Oxigénbefúvásos
+125;Gent;Belgium;5000;2;Oxigénbefúvásos
+126;Ostrava;Csehország;;;Oxigénbefúvásos
+127;Trinec;Csehország;2400;2;Oxigénbefúvásos
+128;Raahe;Finnország;2600;2;Oxigénbefúvásos
+129;Dunkerque;Franciaország;6750;3;Oxigénbefúvásos
+130;Fos-sur-Mer;Franciaország;5100;2;Oxigénbefúvásos
+131;Bremen;Németország;3800;2;Oxigénbefúvásos
+132;Dillingen;Németország;2760;2;Oxigénbefúvásos
+133;Duisburg;Németország;11560;4;Oxigénbefúvásos
+134;Eisenhüttenstadt;Németország;2400;2;Oxigénbefúvásos
+135;Salzgitter;Németország;5200;3;Oxigénbefúvásos
+136;Völklingen;Németország;3240;;Oxigénbefúvásos
+137;Dunaújváros;Magyarország;1650;2;Oxigénbefúvásos
+138;Taranto;Olaszország;11500;4;Oxigénbefúvásos
+139;Ijmuiden (Velsen-Noord);Hollandia;7500;2;Oxigénbefúvásos
+140;Dabrowa Gornicza;Lengyelország;5000;2;Oxigénbefúvásos
+141;Krakow;Lengyelország;2600;1;Oxigénbefúvásos
+142;Galați;Románia;3200;2;Oxigénbefúvásos
+143;Kosice;Szlovákia;4500;2;Oxigénbefúvásos
+144;Aviles;Spanyolország;4200;;Oxigénbefúvásos
+145;Guon;Spanyolország;1200;;Oxigénbefúvásos
+146;Lulea;Svédország;2200;1;Oxigénbefúvásos
+147;Oxelosund;Svédország;1700;2;Oxigénbefúvásos

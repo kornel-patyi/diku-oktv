@@ -1,0 +1,55 @@
+Vas 
+Általános
+Név, vegyjel, rendszám	vas, Fe, 26
+Latin megnevezés	ferrum
+Elemi sorozat	átmenetifémek
+Csoport, periódus, mező	8, 4, d
+Megjelenés	csillogó fémes szürkés árnyalattal
+Atomtömeg	55,845 g/mol
+Fizikai tulajdonságok
+Halmazállapot	szilárd
+Sűrűség (szobahőm.)	7,874 g/cm³
+Sűrűség az o.p.-on	6,98 g/cm³
+Olvadáspont	1811 K
+Forráspont	3134 K
+Olvadáshő	13,81 kJ/mol
+Párolgáshő	340 kJ/mol
+Moláris hőkapacitás	25,10 J/(mol·K)
+Gőznyomás
+P/Pa	1	10	100	1k	10k	100k
+T/K	1728	1890	2091	2346	2679	3132
+Atomi tulajdonságok
+Kristályszerkezet	köbös tércentrált
+Oxidációs szám	2, 3, 4, 6
+Elektronegativitás	1,83
+Ionizációs energia	1. 763 kJ/mol
+2. 1562 kJ/mol
+3. 2957 kJ/mol
+Atomsugár	140 pm
+Atomsugár (számított)	156 pm
+Kovalens sugár	125 pm
+Egyebek
+Mágnesség	ferromágneses
+Fajlagos ellenállás	(20 °C) 96,1 nΩ·m
+Hőmérséklet-vezetési tényező	(300 K) 80,4 W/(m·K)
+Hőtágulási együttható	(25 °C) 11,8 µm/(m·K)
+Hangsebesség	5120 m/s
+Young-modulus	211 GPa
+Nyírási modulus	82 GPa
+Kompressziós modulus	170 GPa
+Poisson-tényező	0,29
+Mohs-keménység	4,0
+Vickers-keménység	608 MPa
+Brinell-keménység	490 HB
+CAS-szám	7439-89-6
+Fontosabb izotópok
+izotóp	természetes előfordulás	felezési idő	bomlás
+			mód	termék
+54Fe	5,8%	stabil
+55Fe	mest.	2,73 y	ε	55Mn
+56Fe	91,72%	stabil
+57Fe	2,2%	stabil
+58Fe	0,28%	stabil
+59Fe	mest.	44,503 d	β-	59Co
+60Fe	mest.	2,6E6 y	β-	60Co
+Vaspor

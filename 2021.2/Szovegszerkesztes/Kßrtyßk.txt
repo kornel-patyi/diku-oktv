@@ -1,0 +1,24 @@
+. téli olimpia
+Adatok
+Rendező;
+Versenyszámok;
+Megnyitóünnepség;
+Záróünnepség;
+Hivatalos megnyitó;
+Arany; Ezüst; Bronz; Összesen
+Magyar részvétel
+Sportolók;
+Zászlóvivő;
+Arany; Ezüst; Bronz; Összesen
+
+Sorszám	Rendező	Sportág	Versenyszám	Nyitás	Zárás	Megnyitó	Arany	Ezüst	Bronz	Magyar sportolók	Zászlóvivő	Magyar arany	Magyar ezüst	Magyar bronz
+XIV.	Szarajevó, Jugoszlávia	10	39	1984. február 7.	1984. február 19.	Mika Špiljak	39	39	39	9	Mayer Gábor	0	0	0
+XV.	Calgary, Kanada	11	46	1988. február 13.	1988. február 28.	Jeanne Sauvé	46	46	46	5	Tóth Attila	0	0	0
+XVI.	Albertville, Franciaország	12	57	1992. február 8.	1992. február 23.	François Mitterrand	57	58	56	24	Tóth Attila	0	0	0
+XVII.	Lillehammer, Norvégia	12	61	1994. február 12.	1994. február 27.	V. Harald norvég király	61	61	61	16	Bónis Attila	0	0	0
+XVIII.	Nagano, Japán	14	68	1998. február 7.	1998. február 22.	Akihito japán császár	69	68	68	17	Egyed Krisztina	0	0	0
+XIX.	Salt Lake City, Utah, USA	15	78	2002. február 8.	2002. február 24.	George W. Bush	80	76	78	25	Egyed Krisztina	0	0	0
+XX.	Torino, Olaszország	15	84	2006. február 10.	2006. február 26.	Carlo Azeglio Ciampi	84	84	84	19	Darázs Rózsa, Huszár Erika	0	0	0
+XXI.	Vancouver, Kanada	15	86	2010. február 12.	2010. február 28.	Michaëlle Jean	86	87	85	16	Sebestyén Júlia	0	0	0
+XXII.	Szocsi, Oroszország	15	98	2014. február 7.	2014. február 23.	Vlagyimir Putyin	99	97	99	16	Heidum Bernadett	0	0	0
+XXIII.	Phjongcshang, Dél-Korea	15	102	2018. február 9.	2018. február 25.	Moon Jae-in	103	102	102	19	Nagy Konrád	1	0	0

@@ -1,0 +1,12 @@
+﻿Méret;Jelentés;Hallgatói létszám;;Kutatói intenzitás;Jelentés
+XL;Extra nagy;>=30000;;VH;Nagyon magas
+L;Nagy;>=12000;;HI;Magas
+M;Közepes;>=5000;;MD;Közepes
+S;Kicsi;<5000;;LO;Alacsony
+;;;;;
+Osztályzás;Jelentés;Életor;;;
+5;Történelmi;Több, mint 100 éves;;;
+4;Érett;50 – 100 éves;;;
+3;Megalapozott;25 – 50 éves;;;
+2;Fiatal;10 - 25 éves;;;
+1;Új;10 évnél fiatalabb;;;

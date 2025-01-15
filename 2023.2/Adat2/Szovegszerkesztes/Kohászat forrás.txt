@@ -1,0 +1,119 @@
+Vasérc
+A vasérc a bányászható mennyiségű és minőségű vasat tartalmazó érckőzet összefoglaló neve.
+Előfordulása
+A vas a Föld második leggyakoribb féme (az alumínium után), körülbelül 4,7 tömegszázalék az előfordulása. A földkéreg átlagban mintegy 6,6%-nyi vasat tartalmaz, természetesen változatos eloszlásban. Minden olyan előfordulás, ami a kéreg átlagos vastartalmához képest 3–4-szeres vastartalmú, ércnek számít, a legtöbb jó minőségű vasérc ultrabázisos és bázisos környezetben található. A vas nagyon könnyen képez vegyületeket oxidatív környezetben, ezért sokféle összetételű természetes vasvegyület alkothat vasércet. Ezen vegyületek közül a gyakorlat számára legfontosabb ásványok:
+hematit, vastartalma 70%,
+magnetit, vastartalma 72,41%,
+goethit, vastartalma 62,92%,
+limonit, vastartalma 59,89%.
+A sziderit (vastartalma 48,28%), hidrohematit (vastartalma 66,27%), chamozit (vas-oxid-tartalmú szilikát) és szferosziderit gazdasági szempontból alárendelt.
+Andradit és hematit	 
+Finomított vasforgács és nagy tisztaságú vaskocka
+Vasércek összetétel szerint
+Vörösvasércek
+Lilásvörös színűek, és hematit alapúak. Ezek a legfontosabb vasércek. A legjobbak 64-68% vasat tartalmaznak.
+Mágnesvasércek vagy szürkevasércek
+Magnetit alapú ércek, vastartalmuk 60% fölött is lehet. Tömörebbek, ezért valamivel nehezebben redukálhatóak. A magnetit gyakran a kova különböző, az érc minőségét rontó módosulataival (jáspis, kvarc) nő össze.
+Barnavasércek alapásványai
+Legalább részben hidroxidosak. Kötött víztartalmukat hevítés hatására elveszítik, így vastartalmuk növelhető.
+Pátvasércek
+Sziderit, azaz vaskarbonát alapúak és általában másodlagos keletkezésűek.
+Vasércek képződés szerint
+Magmás vasércek
+Ultrabázikus és bázikus magmákhoz kötődnek. Ezek a magma eredetileg magas vastartalma miatt dúsak vasvegyületekben.
+Hidrotermális vasérctelepek
+A magma kristályosodási fázisai közül a hidrotermális szakaszhoz köthetők. Nagyobb méretű telepeket csak ritkán alkot, igazán nagy hidrotermális telep a szibériai, perm végi platóbazalt környékén van. A meleg vizes vasásványosodás többnyire szub- vagy utóvulkáni működéshez kötődik.
+Vulkáni exhalációs érctelepek
+Az egyes tűzhányók utolsó életszakaszában jönnek létre a halogenidekkel együtt.
+Üledékes keletkezésű érctelepek
+Olyan dúsulások, ahol a mállás folyamata vagy az üledék felhalmozódásának fizikai jellemzői miatt szaporodik a vastartalom. Ezek legfontosabbjai a reziduális (helyben maradó) üledékek, mivel ezek olyan mállástermékek, amik nem szállítódnak el eredeti helyükről, viszont a nem érces anyagok igen. (A reziduális üledékek közül a bauxit a leggyakoribb.) Az üledékes vaskőzetek az oolitos vasérc, a gyepvasérc, lápi vasérc, vasborsó, kéregvasérc.
+Lelőhelyei
+A jelenleg ismert legnagyobb területű magmás vasérctelep a mágnesvasércek közé tartozó magmás képződmény a Bushveld-masszívum területén, mintegy 67 000 km² kiterjedésben. (Magyarország területének 72%-a.) A telep 1,5–3,6 méter vastag, vagyis érctartalma kb. 170 km³. A nyugat-svédországi kirunavaarai érctelep hatalmas, kilométeres nagyságrendű lencsékben települt, amelyek száz méteres vastagságot is elérnek.
+Magyarország egyetlen bányászható vasérctelepe hidrotermális eredetű. Itt dolomit szideritesedett meleg vizes oldatok hatására, valamint a felső mállási zónában limonitosodott. A telep vegyesen barnavasérc és pátvasérc jellegű. Teljes érckészlete 70 millió tonna körüli, aminek valamivel több mint a felét bányászták eddig ki. Magyarországon néhány helyen még akadnak hidrotermális és metaszomatikus vasércek, de legtöbbjük művelésre alkalmatlan. A Bükk-fennsíkon, valamint Zengővárkony környékén exhalációs lencsék is vannak, az utóbbit az 1950-es években bányászták is. Reziduális vasérctelepeink többsége művelésre alkalmatlan, az Árpád-korban Pécs és Komló környékén bányásztak ilyeneket.
+Vasércbányászat az amerikai Geological Survey adatai alapján.
+No.	ország	felhasználható
+vasérc-termelés
+(ezer tonna)	év
+	világ	2.280.000	2015
+1	Kína (becslés)	1.500.000	2019
+2	Ausztrália	660.000	2019
+3	Brazília (becslés)	320.000	2019
+4	India	153.000	2019
+5	Oroszország	101.000	2015
+6	Dél-afrikai Köztársaság	73.000	2015
+7	Ukrajna	67.000	2015
+8	Egyesült Államok	46.000	2015
+9	Kanada	46.000	2015
+10	Irán	27.000	2015
+11	Svédország	25.000	2015
+12	Kazahsztán	21.000	2015
+13	Mexikó	18.840	2013
+14	Chile	17.109	2013
+15	Venezuela	16.800	2013
+16	Mauritánia	13.400	2013
+17	Sierra Leone	11.895	2013
+18	Malajzia	11.588	2013
+19	Peru	10.126	2013
+20	Törökország	8.589	2013
+21	Mongólia	6.736	2013
+22	Libéria	5.103	2013
+23	Vietnam	4.708	2013
+24	Indonézia	4.000	2013
+25	Norvégia	3.409	2013
+26	Egyiptom	3.320	2013
+27	Új-Zéland	3.157	2013
+28	Észak-Korea	3.054	2013
+29	Ausztria	2.320	2013
+30	Görögország	2.221	2013
+31	Bosznia-Hercegovina	2.122	2013
+32	Laosz	1.459	2013
+33	Algéria	1.067	2013
+Nyersvasgyártás
+A nyersvasgyártás a vas- és acélkohászat technológiai folyamatának első alapvető fázisa. A vas a természetben nem fordul elő színfém formájában (legfeljebb a meteoritvas ilyen), ezért azt érceiből, tűzi kohászati eljárással kell előállítani. A tűzi kohászat során a vasércből – ami főleg vasoxidok elegye – az oxigént redukálással távolítják el. A redukáló anyag szén (koksz, a kohászok szóhasználatában „karbon”). A koksz nemcsak redukálja a vasérceket, de megfelelő hőmérsékletet is ennek égése biztosítja. A nyersvasat többnyire nagyolvasztóban, speciális aknás kemencében állítják elő. Vannak más eljárások is, de a nagyolvasztó a nyersvasgyártás legtipikusabb kemencetípusa: olyan, aknás kemence, amelynek működtetéséhez kisegítő egységekre (léghevítőkre, fúvógépházra, torokgáztisztítóra stb.) is szükség van. A nagyolvasztót és a kisegítő egységeket együtt nagyolvasztóműnek nevezik.
+A nyersvasgyártás történetét az 1300-as évektől követhetjük: a levegőfúvatás fejlesztésével ekkor sikerült a bucakemencékben elég magas hőmérsékletet elérni. Az így előállított vas ugyan nagy széntartalma miatt eleinte használhatatlan (pig iron, csugunnaja szvinka, azaz disznó vas) volt, mégis ez a nyersvas vált az ipari méretű, kétlépcsős acélgyártás első fázisává.
+A nyersvasgyártás anyagai
+Vasérc
+A földkéreg átlagban mintegy 6,6%-nyi vasat tartalmaz – igen változatos vegyületi formációkban és még változatosabb eloszlásban.
+Salakképző anyagok
+Kohósítás közben a vasérc meddőtartalma is megolvad, ebből lesz a salak. A salak kémiai összetétele igen fontos, mert a metallurgus – többek között – ezzel tudja befolyásolni a kéntelenítés folyamatát. A kéntelenítés azért fontos, mert a kén a vasban és az acélban is szennyező elem. A salak kémiai összetételét salakképzők adagolásával állítják be: a salakképző anyag többnyire mészkő és dolomit. Ha olyan zsugorítványt vagy pelletet használnak, amely már tartalmazza ezeket, akkor általában nem kell külön salakképző anyag (ezek az „önjáró ércek”).
+Tüzelő-redukáló anyagok
+A nagyolvasztóban használatos tüzelő-redukálóanyag többnyire a koksz. A koksz egyrészt hőt, másrészt redukáló gázt fejleszt, harmadrészt karbonizálja (szénnel ötvözi) a vasat. A koksz C-tartalma több mint 85%, és annál jobb, ha minél kisebb (1% alatti) a kéntartalma. A koksz szerkezete erősen porózus, ami javítja a nagyolvasztóban elhelyezett elegyoszlop gázátjárhatóságát. Egyes esetekben brikettkokszot használnak, amit szurok kötőanyaggal állítanak elő. A kokszfelhasználás csökkentése érdekében külön redukálóanyagokat: szénhidrogéneket (földgáz, fűtőolaj), szénport stb. is használnak; ezeket a forrószélhez keverik.
+Levegő
+A levegőt a hőszükséglet biztosítására (a koksz égetéséhez) fúvatják a nagyolvasztóba – a kohászok ezt a levegőt fúvószélnek nevezik. Mivel a befúvott hideg levegő lehűtené az olvadékot, ezért előzőleg a nagyolvasztóból távozó gázok hőjét hőcserélőkkel hasznosítva felmelegítik. A meleg fúvószél a forrószél. A hőcserélők magas, tűzálló téglákból épített, rácsos szerkezetű oszlopok (a feltaláló Edward A. Cowper nevéből kauperek), amelyek a levegőt szakaszos üzemben 1100–1300 °C-ra melegítik fel.
+Redukciós folyamatok
+A nagyolvasztóban lejátszódó metallurgiai (kémiai) folyamatok meglehetősen bonyolultak és sokrétűek, még akkor is, ha „csak” a vasérc redukciójáról van szó (ezen kívül más jellegű reakciók, folyamatok is lezajlanak). A lejátszódó kémiai reakciók jelentős mértékben függenek az adott térrész hőmérsékletétől, az uralkodó nyomásviszonyoktól és a jelenlévő vegyületektől.
+A nagyolvasztóban a redukciós folyamatok alapvetően háromféle módon zajlanak le:
+direkt módon, azaz közvetlenül szénnel (C),
+indirekt módon, azaz szén-monoxid (CO) segítségével,
+más redukálószerek, többnyire hidrogén (H2) segítségével.
+Az aknába adagolt és lefelé haladó érc először az elegyoszlopon felfelé haladó gázokkal találkozik. Ennek a gázkeveréknek legjelentősebb alkotórésze a koksz elégetéséből származó szén-monoxid (CO) és szén-dioxid (CO2). A redukálás szempontjából a széndioxidnak nincs szerepe, a szén-monoxid a legfontosabb összetevő, ez végzi az indirekt vagy közvetett redukciót. Az indirekt redukció akkor a leghatásosabb, ha az érc porozitása megfelelően nagy (ezt célozza például a kohósítás előtt zsugorítás). A redukciónak ez a módja azonban kis sebességű, így viszonylag kevés vasat eredményez. Az oxidok további redukálását a közvetlen vagy direkt redukciónak kell elvégeznie. A közvetett redukció az aknában, míg a közvetlen redukció a fúvósíkban vagy közvetlenül fölötte megy végbe, miközben a redukálódott vas megolvad.
+A vasoxid redukcióját úgy kell elképzelni, hogy az először az érc felületén indul meg, majd a darab belső részei felé haladva fokozatosan veszíti el oxigéntartalmát:
+Fe2O3 → Fe3O4 → FeO → Fe
+Indirekt redukció
+A vasoxid közvetett redukciója már a vörösizzás hőmérsékletén elkezdődik:
+3 Fe2O3 + CO → 2 Fe3O4 + CO2
+A képződött Fe3O4 tovább redukálódik:
+Fe3O4 + CO = 3 FeO + CO2
+FeO + CO = Fe + CO2
+A redukció folyamata azonban nem ilyen egyszerű. A fenti kémiai egyenletek ugyanis az egyensúlyi állapotot tételezik fel. Ettől eltérő körülmények között más jellegű reakciók is végbemennek, pl.:
+Fe3O4 + 4 CO → 3 Fe + 4 CO2
+Direkt redukció
+A közvetlen vasredukció egyenletei:
+Fe2O3 + 3 C = 2 Fe + 3 CO
+Fe3O4 + 4 C = 3 Fe + 4 CO
+FeO + C = Fe + CO
+A két – direkt és indirekt – reakciófajta között jelentős különbség, hogy míg a közvetlen redukálás valamennyi folyamata hőfogyasztó (endoterm), addig a közvetett reakciók hőtermelők (exotermek). Ebből is következik, hogy a nagyolvasztóban törekedni kell az indirekt (szén-monoxidos) redukciókra, mert az tüzelőanyag-megtakarítással jár.
+Redukció hidrogénnel
+A hidrogén a levegővel, az elegy kötött víztartalmával vagy szénhidrogén adagolással kerülhet be a nagyolvasztóba. A hidrogén nagyobb hőmérsékleten kezd redukálni, mint a szén-monoxid, de sokkal gyorsabb, hatékonyabb annál. Ugyanakkor bonyolultabb is, mert a hidrogén (víz) szilárd szén és szén-monoxid gáz mellett van jelen, s ezek egymásra is hatnak. Hidrogén keletkezésére vízgőzből a következő reakcióegyenleteket lehet felírni:
+C + H2O = CO + H2
+CO + H2O = CO2 + H2
+A hidrogén a redukálási sort hasonlóan végzi az előzőekkel (egyensúlyi állapotot feltételezve):
+3 Fe2O3 + H2 = 2 Fe3O4 + H2O
+Fe3O4 + H2 =3 FeO + H2O
+FeO + H2 = Fe + H2O
+Az első két reakció hőfogyasztó, míg a középső enyhén hőtermelő jellegű. Az egyensúlyi állapottól eltérő körülmények között létrejöhető reakciók:
+Fe3O4 + 4 H2 =3 Fe + 4 H2O
+Fe2O3 + 3 H2 = 2 Fe + 3 H2O
+A nagyolvasztó
+A nagyolvasztó nyersvasgyártás legtipikusabb kemencetípusa. Aknás kemence, amelynek működtetése azonban több, egyéb feladatot ellátó egységet is igényel. Ilyenek például a léghevítők, a fúvógépház, a torokgáztisztító stb. Ezeket – a nagyolvasztóval együtt – nagyolvasztóműnek nevezik.
+A nagyolvasztó méreteit hasznos magasságával, medencéjének átmérőjével és hasznos térfogatával lehet bemutatni. A nagyolvasztók fejlődése során egyre nagyobb kemencéket építettek, de a méretnövekedést sokkal inkább az átmérővel érték el, mint a magasság növelésével. A legnagyobb magassági méretek a 30–35 méter körüli tartományban vannak, a hasznos térfogat pedig az 5000 köbmétert is meghaladja.
