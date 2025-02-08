@@ -1,0 +1,3 @@
+zala 57
+göcsej 40
+prez: 15

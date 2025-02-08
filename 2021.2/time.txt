@@ -1,0 +1,4 @@
+PowerPoint 20:00
+Word 32:00
+Word2: 1:00:00
+sql: 1:00:00

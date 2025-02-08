@@ -1,1 +1,4 @@
 excel 1:40:00
+francia.pptx 27:21
+eiffel.docx 30:00
+sql 1:10:00
