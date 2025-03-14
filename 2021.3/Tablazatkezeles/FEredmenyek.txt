@@ -1,0 +1,353 @@
+Helyezés	Idõ	Versenyzõ neve	Születési év	Ország	Versenynap	Férfi/Nõi	Táv	Versenyszám																				
+4	02:00.77	ACKMAN Aly	1993	CAN	05/10/2019	nõi	200	gyors																				
+8	02:01.25	ACKMAN Aly	1993	CAN	05/10/2019	nõi	200	gyors																				
+9	04:24.72	ACKMAN Aly	1993	CAN	06/10/2019	nõi	400	gyors																				
+8	08:48.05	ACKMAN Aly	1993	CAN	06/10/2019	nõi	800	gyors																				
+2	00:54.18	ANDREW Michael	1999	USA	06/10/2019	férfi	100	hát																				
+9	00:27.86	ANDREW Michael	1999	USA	05/10/2019	férfi	50	mell																				
+3	00:23.45	ANDREW Michael	1999	USA	06/10/2019	férfi	50	pillangó																				
+7	00:23.73	ANDREW Michael	1999	USA	06/10/2019	férfi	50	pillangó																				
+1	01:59.02	ANDREW Michael	1999	USA	05/10/2019	férfi	200	vegyes																				
+5	02:00.82	ANDREW Michael	1999	USA	05/10/2019	férfi	200	vegyes																				
+1	01:59.58	ANDRUSENKO Veronika	1991	RUS	05/10/2019	nõi	200	gyors																				
+3	02:00.66	ANDRUSENKO Veronika	1991	RUS	05/10/2019	nõi	200	gyors																				
+4	04:00.62	AUBRY David	1996	FRA	05/10/2019	férfi	400	gyors																				
+4	08:05.59	AUBRY David	1996	FRA	05/10/2019	férfi	800	gyors																				
+4	15:23.13	AUBRY David	1996	FRA	05/10/2019	férfi	1500	gyors																				
+9	02:01.55	BACH Helena	2000	DEN	05/10/2019	nõi	200	gyors																				
+6	04:21.48	BACH Helena	2000	DEN	06/10/2019	nõi	400	gyors																				
+7	08:46.51	BACH Helena	2000	DEN	06/10/2019	nõi	800	gyors																				
+10	01:00.49	BACH Helena	2000	DEN	06/10/2019	nõi	100	pillangó																				
+7	04:53.81	BACH Helena	2000	DEN	05/10/2019	nõi	400	vegyes																				
+7	00:25.33	BALOG Gabor	1990	HUN	05/10/2019	férfi	50	hát																				
+4	00:54.77	BALOG Gabor	1990	HUN	06/10/2019	férfi	100	hát																				
+10	00:55.70	BALOG Gabor	1990	HUN	06/10/2019	férfi	100	hát																				
+2	00:26.02	BECKMANN Emilie	1997	DEN	05/10/2019	nõi	50	pillangó																				
+4	00:26.27	BECKMANN Emilie	1997	DEN	05/10/2019	nõi	50	pillangó																				
+7	00:59.98	BECKMANN Emilie	1997	DEN	06/10/2019	nõi	100	pillangó																				
+2	04:17.53	BELMONTE Mireia	1990	ESP	06/10/2019	nõi	400	gyors																				
+1	08:31.42	BELMONTE Mireia	1990	ESP	06/10/2019	nõi	800	gyors																				
+8	02:16.11	BELMONTE Mireia	1990	ESP	06/10/2019	nõi	200	vegyes																				
+3	04:41.81	BELMONTE Mireia	1990	ESP	05/10/2019	nõi	400	vegyes																				
+7	00:57.28	BICZO Bence	1993	HUN	05/10/2019	férfi	100	pillangó																				
+1	01:58.67	BICZO Bence	1993	HUN	05/10/2019	férfi	200	pillangó																				
+7	02:00.06	BICZO Bence	1993	HUN	05/10/2019	férfi	200	pillangó																				
+7	00:27.54	BJERG Tobias	1998	DEN	05/10/2019	férfi	50	mell																				
+8	00:27.66	BJERG Tobias	1998	DEN	05/10/2019	férfi	50	mell																				
+9	01:50.16	BRZOSKOWSKI Maarten	1995	NED	06/10/2019	férfi	200	gyors																				
+5	00:29.69	BURIAN Katalin	1995	HUN	05/10/2019	nõi	50	hát																				
+10	00:30.04	BURIAN Katalin	1995	HUN	05/10/2019	nõi	50	hát																				
+7	01:01.03	BURIAN Katalin	1995	HUN	05/10/2019	nõi	100	hát																				
+9	01:01.34	BURIAN Katalin	1995	HUN	05/10/2019	nõi	100	hát																				
+1	02:09.98	BURIAN Katalin	1995	HUN	06/10/2019	nõi	200	hát																				
+3	02:12.71	BURIAN Katalin	1995	HUN	06/10/2019	nõi	200	hát																				
+6	00:26.49	BUSCH Kim	1998	NED	05/10/2019	nõi	50	pillangó																				
+6	00:26.49	BUSCH Kim	1998	NED	05/10/2019	nõi	50	pillangó																				
+5	00:59.86	BUSCH Kim	1998	NED	06/10/2019	nõi	100	pillangó																				
+1	00:25.47	CAMPBELL Cate	1992	AUS	06/10/2019	nõi	50	gyors																				
+4	00:26.13	CAMPBELL Cate	1992	AUS	06/10/2019	nõi	50	gyors																				
+1	00:53.00	CAMPBELL Cate	1992	AUS	06/10/2019	nõi	100	gyors																				
+6	00:54.51	CAMPBELL Cate	1992	AUS	06/10/2019	nõi	100	gyors																				
+3	00:26.14	CAMPBELL Cate	1992	AUS	05/10/2019	nõi	50	pillangó																				
+10	00:26.66	CAMPBELL Cate	1992	AUS	05/10/2019	nõi	50	pillangó																				
+2	00:26.02	COLEMAN Michelle	1993	SWE	06/10/2019	nõi	50	gyors																				
+6	00:26.58	COLEMAN Michelle	1993	SWE	06/10/2019	nõi	50	gyors																				
+2	00:53.45	COLEMAN Michelle	1993	SWE	06/10/2019	nõi	100	gyors																				
+7	00:54.75	COLEMAN Michelle	1993	SWE	06/10/2019	nõi	100	gyors																				
+7	02:01.23	COLEMAN Michelle	1993	SWE	05/10/2019	nõi	200	gyors																				
+9	00:26.62	COLEMAN Michelle	1993	SWE	05/10/2019	nõi	50	pillangó																				
+6	02:15.83	CUSINATO Ilaria	1999	ITA	06/10/2019	nõi	200	vegyes																				
+9	02:16.16	CUSINATO Ilaria	1999	ITA	06/10/2019	nõi	200	vegyes																				
+5	04:48.64	CUSINATO Ilaria	1999	ITA	05/10/2019	nõi	400	vegyes																				
+8	04:24.09	DE JONG Imani	2002	NED	06/10/2019	nõi	400	gyors																				
+9	08:54.84	DE JONG Imani	2002	NED	06/10/2019	nõi	800	gyors																				
+6	02:00.87	FAIN Katja	2001	SLO	05/10/2019	nõi	200	gyors																				
+10	02:01.58	FAIN Katja	2001	SLO	05/10/2019	nõi	200	gyors																				
+10	05:05.29	FARKAS Adel	1998	HUN	05/10/2019	nõi	400	vegyes																				
+10	00:57.53	FRASER-HOLMES Thomas	1991	AUS	06/10/2019	férfi	100	pillangó																				
+3	01:59.71	FRASER-HOLMES Thomas	1991	AUS	05/10/2019	férfi	200	vegyes																				
+10	02:02.05	FRASER-HOLMES Thomas	1991	AUS	05/10/2019	férfi	200	vegyes																				
+5	04:20.61	FRASER-HOLMES Thomas	1991	AUS	06/10/2019	férfi	400	vegyes																				
+7	00:26.75	GANTRIIS Emily	1999	DEN	06/10/2019	nõi	50	gyors																				
+1	04:16.23	GOUGH Maddy	1999	AUS	06/10/2019	nõi	400	gyors																				
+2	08:32.54	GOUGH Maddy	1999	AUS	06/10/2019	nõi	800	gyors																				
+3	00:23.23	GRINEV Vladislav	1996	RUS	05/10/2019	férfi	50	gyors																				
+5	00:23.40	GRINEV Vladislav	1996	RUS	05/10/2019	férfi	50	gyors																				
+2	00:48.57	GRINEV Vladislav	1996	RUS	05/10/2019	férfi	100	gyors																				
+4	00:49.01	GRINEV Vladislav	1996	RUS	05/10/2019	férfi	100	gyors																				
+1	03:59.74	GYURTA Gergely	1991	HUN	05/10/2019	férfi	400	gyors																				
+3	08:02.88	GYURTA Gergely	1991	HUN	05/10/2019	férfi	800	gyors																				
+3	15:11.04	GYURTA Gergely	1991	HUN	05/10/2019	férfi	1500	gyors																				
+4	04:20.42	GYURTA Gergely	1991	HUN	06/10/2019	férfi	400	vegyes																				
+6	00:29.70	HENDERSON Hanna	2002	CAN	05/10/2019	nõi	50	hát																				
+8	01:01.13	HENDERSON Hanna	2002	CAN	05/10/2019	nõi	100	hát																				
+2	00:59.65	HENDERSON Hanna	2002	CAN	06/10/2019	nõi	100	pillangó																				
+10	01:00.49	HENDERSON Hanna	2002	CAN	06/10/2019	nõi	100	pillangó																				
+2	02:12.45	HERASIMOWICZ Zuzanna	2002	POL	06/10/2019	nõi	200	hát																				
+10	02:17.36	HERASIMOWICZ Zuzanna	2002	POL	06/10/2019	nõi	200	hát																				
+6	01:49.55	HOLLO Balazs	1999	HUN	06/10/2019	férfi	200	gyors																				
+3	04:16.63	HOLLO Balazs	1999	HUN	06/10/2019	férfi	400	vegyes																				
+10	01:04.42	HORVATH David	1996	HUN	06/10/2019	férfi	100	mell																				
+10	02:13.12	HORVATH David	1996	HUN	06/10/2019	férfi	200	mell																				
+9	00:29.99	HOSSZU Katinka	1989	HUN	05/10/2019	nõi	50	hát																				
+10	00:30.04	HOSSZU Katinka	1989	HUN	05/10/2019	nõi	50	hát																				
+5	01:00.69	HOSSZU Katinka	1989	HUN	05/10/2019	nõi	100	hát																				
+6	01:00.85	HOSSZU Katinka	1989	HUN	05/10/2019	nõi	100	hát																				
+1	02:09.56	HOSSZU Katinka	1989	HUN	06/10/2019	nõi	200	vegyes																				
+3	02:12.86	HOSSZU Katinka	1989	HUN	06/10/2019	nõi	200	vegyes																				
+1	04:34.37	HOSSZU Katinka	1989	HUN	05/10/2019	nõi	400	vegyes																				
+1	00:30.82	HULKKO Ida	1998	FIN	06/10/2019	nõi	50	mell																				
+2	00:31.20	HULKKO Ida	1998	FIN	06/10/2019	nõi	50	mell																				
+4	00:31.33	HULKKO Ida	1998	FIN	05/10/2019	nõi	50	mell																				
+9	00:31.82	HULKKO Ida	1998	FIN	05/10/2019	nõi	50	mell																				
+1	01:07.42	HULKKO Ida	1998	FIN	05/10/2019	nõi	100	mell																				
+4	01:08.07	HULKKO Ida	1998	FIN	05/10/2019	nõi	100	mell																				
+4	02:00.00	IKARI Yuki	2000	JPN	05/10/2019	férfi	200	vegyes																				
+8	02:01.81	IKARI Yuki	2000	JPN	05/10/2019	férfi	200	vegyes																				
+1	04:14.43	IKARI Yuki	2000	JPN	06/10/2019	férfi	400	vegyes																				
+5	02:14.59	ILYES Laura	2001	HUN	06/10/2019	nõi	200	hát																				
+8	02:16.00	ILYES Laura	2001	HUN	06/10/2019	nõi	200	hát																				
+4	00:25.20	IRIE Ryosuke	1990	JPN	05/10/2019	férfi	50	hát																				
+6	00:25.31	IRIE Ryosuke	1990	JPN	05/10/2019	férfi	50	hát																				
+1	00:53.50	IRIE Ryosuke	1990	JPN	06/10/2019	férfi	100	hát																				
+6	00:54.96	IRIE Ryosuke	1990	JPN	06/10/2019	férfi	100	hát																				
+6	02:01.19	IRIE Ryosuke	1990	JPN	05/10/2019	férfi	200	vegyes																				
+9	02:01.95	IRIE Ryosuke	1990	JPN	05/10/2019	férfi	200	vegyes																				
+2	01:59.82	JAKABOS Zsuzsanna	1989	HUN	05/10/2019	nõi	200	gyors																				
+5	02:00.85	JAKABOS Zsuzsanna	1989	HUN	05/10/2019	nõi	200	gyors																				
+1	00:59.14	JAKABOS Zsuzsanna	1989	HUN	06/10/2019	nõi	100	pillangó																				
+3	00:59.69	JAKABOS Zsuzsanna	1989	HUN	06/10/2019	nõi	100	pillangó																				
+4	02:13.46	JAKABOS Zsuzsanna	1989	HUN	06/10/2019	nõi	200	vegyes																				
+2	04:41.73	JAKABOS Zsuzsanna	1989	HUN	05/10/2019	nõi	400	vegyes																				
+4	00:29.68	JALLOW Mimosa	1994	FIN	05/10/2019	nõi	50	hát																				
+8	00:29.74	JALLOW Mimosa	1994	FIN	05/10/2019	nõi	50	hát																				
+10	01:01.35	JALLOW Mimosa	1994	FIN	05/10/2019	nõi	100	hát																				
+6	04:02.95	JOLY Damien	1992	FRA	05/10/2019	férfi	400	gyors																				
+7	08:12.82	JOLY Damien	1992	FRA	05/10/2019	férfi	800	gyors																				
+5	15:23.44	JOLY Damien	1992	FRA	05/10/2019	férfi	1500	gyors																				
+7	04:03.37	KALMAR Akos	2000	HUN	05/10/2019	férfi	400	gyors																				
+6	08:12.55	KALMAR Akos	2000	HUN	05/10/2019	férfi	800	gyors																				
+6	15:24.18	KALMAR Akos	2000	HUN	05/10/2019	férfi	1500	gyors																				
+5	00:26.48	KAMENEVA Mariia	1999	RUS	06/10/2019	nõi	50	gyors																				
+9	00:26.92	KAMENEVA Mariia	1999	RUS	06/10/2019	nõi	50	gyors																				
+4	00:54.40	KAMENEVA Mariia	1999	RUS	06/10/2019	nõi	100	gyors																				
+8	00:54.89	KAMENEVA Mariia	1999	RUS	06/10/2019	nõi	100	gyors																				
+2	00:29.28	KAMENEVA Mariia	1999	RUS	05/10/2019	nõi	50	hát																				
+7	00:29.73	KAMENEVA Mariia	1999	RUS	05/10/2019	nõi	50	hát																				
+2	00:59.86	KAMENEVA Mariia	1999	RUS	05/10/2019	nõi	100	hát																				
+4	01:00.48	KAMENEVA Mariia	1999	RUS	05/10/2019	nõi	100	hát																				
+1	00:27.00	KAMMINGA Arno	1995	NED	05/10/2019	férfi	50	mell																				
+2	00:27.13	KAMMINGA Arno	1995	NED	05/10/2019	férfi	50	mell																				
+1	01:02.10	KAMMINGA Arno	1995	NED	06/10/2019	férfi	100	mell																				
+2	01:02.14	KAMMINGA Arno	1995	NED	06/10/2019	férfi	100	mell																				
+1	02:07.96	KAMMINGA Arno	1995	NED	06/10/2019	férfi	200	mell																				
+2	02:08.72	KAMMINGA Arno	1995	NED	06/10/2019	férfi	200	mell																				
+4	04:45.85	KAPAS Boglarka	1993	HUN	05/10/2019	nõi	400	vegyes																				
+3	04:17.84	KESELY Ajna	2001	HUN	06/10/2019	nõi	400	gyors																				
+5	08:40.69	KESELY Ajna	2001	HUN	06/10/2019	nõi	800	gyors																				
+8	00:26.84	KLANCAR Neza	2000	SLO	06/10/2019	nõi	50	gyors																				
+9	00:55.13	KLANCAR Neza	2000	SLO	06/10/2019	nõi	100	gyors																				
+10	00:55.14	KLANCAR Neza	2000	SLO	06/10/2019	nõi	100	gyors																				
+7	01:04.28	KOHINATA Kazuki	1994	JPN	06/10/2019	férfi	100	mell																				
+5	02:11.71	KOHINATA Kazuki	1994	JPN	06/10/2019	férfi	200	mell																				
+8	02:13.09	KOHINATA Kazuki	1994	JPN	06/10/2019	férfi	200	mell																				
+6	04:23.42	KOS Hubert	2003	HUN	06/10/2019	férfi	400	vegyes																				
+3	00:26.09	KROMOWIDJOJO Ranomi	1990	NED	06/10/2019	nõi	50	gyors																				
+3	00:53.81	KROMOWIDJOJO Ranomi	1990	NED	06/10/2019	nõi	100	gyors																				
+5	00:54.47	KROMOWIDJOJO Ranomi	1990	NED	06/10/2019	nõi	100	gyors																				
+1	00:25.63	KROMOWIDJOJO Ranomi	1990	NED	05/10/2019	nõi	50	pillangó																				
+5	00:26.28	KROMOWIDJOJO Ranomi	1990	NED	05/10/2019	nõi	50	pillangó																				
+4	01:48.55	KROON Luc	2001	NED	06/10/2019	férfi	200	gyors																				
+7	01:49.90	KROON Luc	2001	NED	06/10/2019	férfi	200	gyors																				
+10	00:31.83	LAHTINEN Laura	2003	FIN	06/10/2019	nõi	50	mell																				
+9	00:25.42	LAITAROVSKY Michael	1999	ISR	05/10/2019	férfi	50	hát																				
+9	00:25.42	LAITAROVSKY Michael	1999	ISR	05/10/2019	férfi	50	hát																				
+2	00:55.84	LUNAK Sebastian	2002	CZE	05/10/2019	férfi	100	pillangó																				
+3	00:56.87	LUNAK Sebastian	2002	CZE	05/10/2019	férfi	100	pillangó																				
+3	01:58.71	LUNAK Sebastian	2002	CZE	05/10/2019	férfi	200	pillangó																				
+5	01:59.44	LUNAK Sebastian	2002	CZE	05/10/2019	férfi	200	pillangó																				
+5	00:57.08	MAJERSKI Jakub	2000	POL	05/10/2019	férfi	100	pillangó																				
+8	02:00.70	MAJERSKI Jakub	2000	POL	05/10/2019	férfi	200	pillangó																				
+8	00:23.74	MAKELA Niko	1998	FIN	06/10/2019	férfi	50	pillangó																				
+4	00:57.01	MARTON Richard	1999	HUN	05/10/2019	férfi	100	pillangó																				
+6	01:59.88	MARTON Richard	1999	HUN	05/10/2019	férfi	200	pillangó																				
+10	00:23.82	MATSUI Kosuke	1994	JPN	05/10/2019	férfi	50	gyors																				
+8	00:23.71	MATSUMOTO Katsuhiro	1997	JPN	05/10/2019	férfi	50	gyors																				
+3	00:48.97	MATSUMOTO Katsuhiro	1997	JPN	05/10/2019	férfi	100	gyors																				
+10	00:49.52	MATSUMOTO Katsuhiro	1997	JPN	05/10/2019	férfi	100	gyors																				
+3	01:48.32	MATSUMOTO Katsuhiro	1997	JPN	06/10/2019	férfi	200	gyors																				
+5	04:20.57	MEITZ Kaersten	1995	USA	06/10/2019	nõi	400	gyors																				
+4	08:38.77	MEITZ Kaersten	1995	USA	06/10/2019	nõi	800	gyors																				
+3	04:00.27	MICKA Jan	1995	CZE	05/10/2019	férfi	400	gyors																				
+2	08:00.96	MICKA Jan	1995	CZE	05/10/2019	férfi	800	gyors																				
+2	15:03.19	MICKA Jan	1995	CZE	05/10/2019	férfi	1500	gyors																				
+8	00:26.56	MIKKELSEN Amalie	1997	DEN	05/10/2019	nõi	50	pillangó																				
+9	00:23.74	MILAK Kristof	2000	HUN	05/10/2019	férfi	50	gyors																				
+9	00:49.44	MILAK Kristof	2000	HUN	05/10/2019	férfi	100	gyors																				
+2	01:47.69	MILAK Kristof	2000	HUN	06/10/2019	férfi	200	gyors																				
+10	01:50.27	MILAK Kristof	2000	HUN	06/10/2019	férfi	200	gyors																				
+9	00:55.67	MILAK Kristof	2000	HUN	06/10/2019	férfi	100	hát																				
+1	00:22.71	MOROZOV Vladimir	1992	RUS	05/10/2019	férfi	50	gyors																				
+4	00:23.32	MOROZOV Vladimir	1992	RUS	05/10/2019	férfi	50	gyors																				
+1	00:47.99	MOROZOV Vladimir	1992	RUS	05/10/2019	férfi	100	gyors																				
+6	00:49.11	MOROZOV Vladimir	1992	RUS	05/10/2019	férfi	100	gyors																				
+1	00:24.70	MOROZOV Vladimir	1992	RUS	05/10/2019	férfi	50	hát																				
+2	00:25.03	MOROZOV Vladimir	1992	RUS	05/10/2019	férfi	50	hát																				
+3	00:27.39	MUSTAFIN Vladislav	1995	UZB	05/10/2019	férfi	50	mell																				
+6	00:27.46	MUSTAFIN Vladislav	1995	UZB	05/10/2019	férfi	50	mell																				
+8	04:26.41	NAGY Richard	1993	SVK	06/10/2019	férfi	400	vegyes																				
+7	00:49.30	NEMETH Nandor	1999	HUN	05/10/2019	férfi	100	gyors																				
+8	00:55.61	NEMETH Nandor	1999	HUN	06/10/2019	férfi	100	hát																				
+8	04:10.39	NGUYEN Huu Kim Son	2002	VIE	05/10/2019	férfi	400	gyors																				
+8	08:27.10	NGUYEN Huu Kim Son	2002	VIE	05/10/2019	férfi	800	gyors																				
+8	15:52.29	NGUYEN Huu Kim Son	2002	VIE	05/10/2019	férfi	1500	gyors																				
+9	04:28.75	NGUYEN Huu Kim Son	2002	VIE	06/10/2019	férfi	400	vegyes																				
+4	04:18.19	ODER Tjasa	1994	SLO	06/10/2019	nõi	400	gyors																				
+3	08:37.02	ODER Tjasa	1994	SLO	06/10/2019	nõi	800	gyors																				
+2	02:12.40	OMOTO Rika	1997	JPN	06/10/2019	nõi	200	vegyes																				
+5	02:14.43	OMOTO Rika	1997	JPN	06/10/2019	nõi	200	vegyes																				
+1	00:55.37	PAKHOMOV Daniil	1998	RUS	05/10/2019	férfi	100	pillangó																				
+8	00:57.48	PAKHOMOV Daniil	1998	RUS	05/10/2019	férfi	100	pillangó																				
+2	01:58.69	PAKHOMOV Daniil	1998	RUS	05/10/2019	férfi	200	pillangó																				
+10	04:14.97	PAPP Mark	1994	HUN	05/10/2019	férfi	400	gyors																				
+10	08:40.42	PAPP Mark	1994	HUN	05/10/2019	férfi	800	gyors																				
+10	16:30.84	PAPP Mark	1994	HUN	05/10/2019	férfi	1500	gyors																				
+7	04:22.50	PEREZ BLANCO Jimena	1997	ESP	06/10/2019	nõi	400	gyors																				
+6	08:43.82	PEREZ BLANCO Jimena	1997	ESP	06/10/2019	nõi	800	gyors																				
+6	04:50.29	PEREZ BLANCO Jimena	1997	ESP	05/10/2019	nõi	400	vegyes																				
+10	04:25.51	PIECHOTA Paulina	1999	POL	06/10/2019	nõi	400	gyors																				
+10	08:57.51	PIECHOTA Paulina	1999	POL	06/10/2019	nõi	800	gyors																				
+6	00:31.63	PODMANIKOVA Andrea	1998	SVK	06/10/2019	nõi	50	mell																				
+7	04:23.73	PONS RAMON Joan Lluis	1996	ESP	06/10/2019	férfi	400	vegyes																				
+9	00:57.51	POPRAWA Michal	1994	POL	05/10/2019	férfi	100	pillangó																				
+9	00:23.75	POYTAKIVI Riku	1993	FIN	06/10/2019	férfi	50	pillangó																				
+1	01:45.97	RAPSYS Danas	1995	LTU	06/10/2019	férfi	200	gyors																				
+5	01:48.62	RAPSYS Danas	1995	LTU	06/10/2019	férfi	200	gyors																				
+2	01:59.42	RAPSYS Danas	1995	LTU	05/10/2019	férfi	200	vegyes																				
+7	02:01.75	RAPSYS Danas	1995	LTU	05/10/2019	férfi	200	vegyes																				
+8	04:54.00	RUOTSALAINEN Vilma	1997	FIN	05/10/2019	nõi	400	vegyes																				
+6	00:59.92	SCHMIDTKE Aliena	1992	GER	06/10/2019	nõi	100	pillangó																				
+9	01:00.30	SCHMIDTKE Aliena	1992	GER	06/10/2019	nõi	100	pillangó																				
+8	01:09.38	SCHOUTEN Tes	2000	NED	05/10/2019	nõi	100	mell																				
+10	01:09.46	SCHOUTEN Tes	2000	NED	05/10/2019	nõi	100	mell																				
+7	02:16.10	SEBESTYEN Dalma	1997	HUN	06/10/2019	nõi	200	vegyes																				
+10	02:16.79	SEBESTYEN Dalma	1997	HUN	06/10/2019	nõi	200	vegyes																				
+4	01:03.44	SIDLAUSKAS Andrius	1997	LTU	06/10/2019	férfi	100	mell																				
+4	00:27.41	SILADI Caba	1990	CLB	05/10/2019	férfi	50	mell																				
+5	00:27.42	SILADI Caba	1990	CLB	05/10/2019	férfi	50	mell																				
+9	04:59.82	SIMONOVA Vitalina	1992	RUS	05/10/2019	nõi	400	vegyes																				
+10	04:32.23	SYOUD Jaouad	1999	ALG	06/10/2019	férfi	400	vegyes																				
+2	00:23.17	SZABO Szebasztian	1996	HUN	05/10/2019	férfi	50	gyors																				
+7	00:23.68	SZABO Szebasztian	1996	HUN	05/10/2019	férfi	50	gyors																				
+5	00:49.05	SZABO Szebasztian	1996	HUN	05/10/2019	férfi	100	gyors																				
+1	00:23.22	SZABO Szebasztian	1996	HUN	06/10/2019	férfi	50	pillangó																				
+5	00:23.62	SZABO Szebasztian	1996	HUN	06/10/2019	férfi	50	pillangó																				
+4	02:13.17	SZABO-FELTOTHY Eszter	2002	HUN	06/10/2019	nõi	200	hát																				
+7	02:15.38	SZABO-FELTOTHY Eszter	2002	HUN	06/10/2019	nõi	200	hát																				
+3	00:25.09	SZENTES Bence	1996	HUN	05/10/2019	férfi	50	hát																				
+7	00:31.64	SZTANKOVICS Anna	1996	HUN	06/10/2019	nõi	50	mell																				
+8	00:31.65	SZTANKOVICS Anna	1996	HUN	06/10/2019	nõi	50	mell																				
+3	00:31.28	TANG Qianting	2004	CHN	06/10/2019	nõi	50	mell																				
+5	00:31.55	TANG Qianting	2004	CHN	06/10/2019	nõi	50	mell																				
+5	00:25.24	TARASEVICH Grigory	1995	RUS	05/10/2019	férfi	50	hát																				
+8	00:25.38	TARASEVICH Grigory	1995	RUS	05/10/2019	férfi	50	hát																				
+3	00:54.71	TARASEVICH Grigory	1995	RUS	06/10/2019	férfi	100	hát																				
+7	00:55.41	TARASEVICH Grigory	1995	RUS	06/10/2019	férfi	100	hát																				
+6	00:57.13	TEKAUER Mark	1998	HUN	05/10/2019	férfi	100	pillangó																				
+9	02:01.03	TEKAUER Mark	1998	HUN	05/10/2019	férfi	200	pillangó																				
+5	00:54.94	TELEGDY Adam	1995	HUN	06/10/2019	férfi	100	hát																				
+2	01:07.81	TERAMURA Miho	1994	JPN	05/10/2019	nõi	100	mell																				
+3	01:07.94	TERAMURA Miho	1994	JPN	05/10/2019	nõi	100	mell																				
+10	00:26.94	TOUSSAINT Kira	1994	NED	06/10/2019	nõi	50	gyors																				
+1	00:29.18	TOUSSAINT Kira	1994	NED	05/10/2019	nõi	50	hát																				
+3	00:29.52	TOUSSAINT Kira	1994	NED	05/10/2019	nõi	50	hát																				
+1	00:59.56	TOUSSAINT Kira	1994	NED	05/10/2019	nõi	100	hát																				
+3	01:00.21	TOUSSAINT Kira	1994	NED	05/10/2019	nõi	100	hát																				
+10	00:31.83	VALL MONTERO Jessica	1988	ESP	06/10/2019	nõi	50	mell																				
+7	01:08.66	VALL MONTERO Jessica	1988	ESP	05/10/2019	nõi	100	mell																				
+8	01:09.38	VALL MONTERO Jessica	1988	ESP	05/10/2019	nõi	100	mell																				
+6	00:23.58	VEKOVISHCHEV Mikhail	1998	RUS	05/10/2019	férfi	50	gyors																				
+8	00:49.43	VEKOVISHCHEV Mikhail	1998	RUS	05/10/2019	férfi	100	gyors																				
+8	01:50.15	VEKOVISHCHEV Mikhail	1998	RUS	06/10/2019	férfi	200	gyors																				
+4	00:23.56	VEKOVISHCHEV Mikhail	1998	RUS	06/10/2019	férfi	50	pillangó																				
+10	00:23.76	VEKOVISHCHEV Mikhail	1998	RUS	06/10/2019	férfi	50	pillangó																				
+4	01:59.41	VERRASZTO David	1988	HUN	05/10/2019	férfi	200	pillangó																				
+10	02:01.11	VERRASZTO David	1988	HUN	05/10/2019	férfi	200	pillangó																				
+2	04:15.32	VERRASZTO David	1988	HUN	06/10/2019	férfi	400	vegyes																				
+4	00:59.75	VERRASZTO Evelin	1989	HUN	06/10/2019	nõi	100	pillangó																				
+8	01:00.17	VERRASZTO Evelin	1989	HUN	06/10/2019	nõi	100	pillangó																				
+5	01:08.50	VOZEL Tjasa	1994	SLO	05/10/2019	nõi	100	mell																				
+6	01:08.63	VOZEL Tjasa	1994	SLO	05/10/2019	nõi	100	mell																				
+10	00:27.91	WATANABE Hayato	1993	JPN	05/10/2019	férfi	50	mell																				
+5	01:03.99	WATANABE Hayato	1993	JPN	06/10/2019	férfi	100	mell																				
+8	01:04.32	WATANABE Hayato	1993	JPN	06/10/2019	férfi	100	mell																				
+6	02:12.40	WATANABE Hayato	1993	JPN	06/10/2019	férfi	200	mell																				
+9	02:13.10	WATANABE Hayato	1993	JPN	06/10/2019	férfi	200	mell																				
+6	01:04.25	WATANABE Ippei	1997	JPN	06/10/2019	férfi	100	mell																				
+10	01:04.42	WATANABE Ippei	1997	JPN	06/10/2019	férfi	100	mell																				
+4	02:11.47	WATANABE Ippei	1997	JPN	06/10/2019	férfi	200	mell																				
+2	04:00.16	WELLBROCK Florian	1997	GER	05/10/2019	férfi	400	gyors																				
+1	08:00.81	WELLBROCK Florian	1997	GER	05/10/2019	férfi	800	gyors																				
+1	14:57.83	WELLBROCK Florian	1997	GER	05/10/2019	férfi	1500	gyors																				
+5	04:00.96	WOJDAK Wojciech	1996	POL	05/10/2019	férfi	400	gyors																				
+5	08:08.37	WOJDAK Wojciech	1996	POL	05/10/2019	férfi	800	gyors																				
+7	15:37.76	WOJDAK Wojciech	1996	POL	05/10/2019	férfi	1500	gyors																				
+9	04:14.29	ZABOROWSKI Filip	1994	POL	05/10/2019	férfi	400	gyors																				
+9	08:30.89	ZABOROWSKI Filip	1994	POL	05/10/2019	férfi	800	gyors																				
+9	16:06.91	ZABOROWSKI Filip	1994	POL	05/10/2019	férfi	1500	gyors																				
+3	01:03.03	ZHANG Ruixuan	1999	CHN	06/10/2019	férfi	100	mell																				
+9	01:04.38	ZHANG Ruixuan	1999	CHN	06/10/2019	férfi	100	mell																				
+3	02:10.23	ZHANG Ruixuan	1999	CHN	06/10/2019	férfi	200	mell																				
+7	02:12.74	ZHANG Ruixuan	1999	CHN	06/10/2019	férfi	200	mell																				
+6	02:14.63	ZHANG Wenwen	2005	CHN	06/10/2019	nõi	200	hát																				
+9	02:16.40	ZHANG Wenwen	2005	CHN	06/10/2019	nõi	200	hát																				
+2	00:23.34	ZHILKIN Andrey	1995	RUS	06/10/2019	férfi	50	pillangó																				
+6	00:23.68	ZHILKIN Andrey	1995	RUS	06/10/2019	férfi	50	pillangó																				
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
+																												
