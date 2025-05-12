@@ -1,0 +1,153 @@
+   Széchényi Könyvtárban folyó könyvtörténeti kutatások legfrissebb eredményeirõl kívánják tájékoztatni a szakmai közvéleményt és a széles közönséget. A Typographia honlap tartalmazza egyrészt a Kárpát-medence egészét magában foglaló nyomda-adatbázist, a Clavis Typographorum Regionis Carpathicaet 1473-1948 közötti idõtartamban. Másrészt az ebben az adatbázisban regisztrált, elsõ száz év mûködõ nyomdáinak adatait szöveges és képes formában is megjelenítik: a Kézisajtó kora címen. Reményeink szerint ez az internet jóvoltából könnyen hozzáférhetõ nyomda-adatbázis, valamint a gazdagon illusztrált magyar nyomda- és nyomdászattörténeti honlap tájékoztatást ad a témáról minden hazai és külföldi könyvtárnak, és az ilyen irányú kutatással foglalkozó szakembereknek és érdeklõdõknek. 
+Bevezetõ
+   Az Országos Széchényi Könyvtár nyomda- és nyomdászattörténeti honlapja a témát kutató szakembereknek és az érdeklõdõknek a magyarországi nyomdászat már teljesen föltárt, korai századait kívánja a legújabb ismeretek kiegészítésével illusztrálva bemutatni. Elsõ lépésként a kezdetektõl a 16. század utolsó harmadáig azaz, a magyarországi nyomdászat elsõ 100 évét mutattuk be, legújabban pedig kiterjesztjük az idõhatárt 1635-ig. Az egy-egy helység nyomdászatát, illetve egy-egy nyomda történetét szakaszosan szemlélteti. A nyomdák történetéhez és tevékenységének rövid ismertetéséhez kapcsolódnak az adott tipográfia fölszerelését: díszeket, iniciálésorozatokat, nyomdai cifrákat és a legjellegzetesebb betûtípusokat szemléltetõ illusztrációk. Szerepel a legfrissebb szakirodalom is.Gutenberg találmánya, a nyomtatott könyv 
+A XIII. században megindult polgárosodás hatására az értelmiségi réteg száma jelentõsen gyarapodott. Megnõtt az írásbeliség, s vele együtt a könyvek iránti társadalmi igény, amelyet kézi másolással már nem lehetett kielégíteni. A könyvnyomtatás föltalálása a XV. század közepén társadalmi igény volt.
+   Johannes Gutenberg halála után, 1584-ben készült fametszetû fantázia-portréjaJohannes Gutenberg feltételezett sajtójának rajzaAz emberi mûvelõdéstörténet új korszaka kezdõdött a XV. század közepén Gutenberg találmányával. A fölfedezés lényege a betûk sorozatgyártásának, azaz az azonos betûknek a sokszorosítása, amely által lehetõvé válik szövegek kiszedése, majd a sajtó felhasználásával ezekrõl több, elvileg azonos példány készítése. A kézzel írott könyv (kódex) mellett megjelent a nyomtatott könyv. 
+Johannes Gutenberg (1400 körül-1468) a németországi Mainzban született. A patrícius családból származó nyomdász már az 1430-as évek végén kísérletezett a nyomtatással, de nyomtatványai csak az 1440-es évekbõl ismeretesek. Találmánya alkalmazásának pontos idõpontja ismeretlen, ezért a könyvtörténeti kutatók az 1440-es esztendõt fogadták el nemzetközi közmegegyezéssel. Fõmûve, a napjainkban is az egyik legszebbként számon tartott nyomdai munka, a gazdagon díszített, 42 soros Biblia, amely 1450-1456 között készült. Gutenberg találmánya rövid idõn belül ismerté vált Európa számos országában. Mai ismereteink szerint 1500-ig 18 ország 260 városában 1125 nyomda mûködött. Becslések szerint az általuk megjelentetett mûvek száma 28.000 körülire tehetõ, amely 400.000 példányban jelenhetett meg. 
+1. A könyv elõállításának munkafolyamatai a kézisajtó korában
+1.1. A papír készítése
+   Európában az elsõ papírmalmok a mór (1140), majd a keresztény (1260) Spanyolországban mûködtek. Magyarországon a külföldrõl behozott papír használata az 1310-es évektõl kimutatható, korabeli források szerint 1530 elõtt már mûködött nálunk papírmalom. 
+Papírkészítõ (Jost Amman fametszete)Vízkerékkel mûködtetett papírmalom (XVII. századi illusztráció)A papíros alapanyagául szolgáló rongyot péppé verték s azután vízjegyes szitával "merítve," utána esetleg enyvezve is, megszárították, majd pedig préselték. Az új anyag, a papír, amelyet mindenek elõtt írásra használtak, fokozatosan kiszorította a pergament az iratkészítésbõl, a levelezésbõl és az írott könyvek, a kódexek készítésébõl. A papír kevésbé volt ellenálló és nem lehetett újra felhasználni, ugyanakkor elõnye volt olcsósága és könnyû kezelhetõsége, valamint azonos mérete. A papírgyártáshoz igen sok víz kellett. A vízre, mint hajtóerõre is szükség volt a gyártási folyamatban, ezért a papírmalmokat gyors folyású patakok, folyók mellé telepítették.
+   A vízjel a malom szimbóluma, esetleg a tulajdonos címere, de lehetett a papír minõségét jelölõ ábrázolás is. Kisebb papírmalmok gyakorlatában elõfordult, hogy nem használtak vízjelet.
+2. Az öntött betûk elõállítása 
+2.1. Betûöntõmûhely
+   A nyomdabetû rajzának elõzménye a reneszánsz kézírás-betûben található. A kódexek betûi két rokon és szerkezetükben mégis különbözõ betûcsaládot kötnek össze: a tollírásban kialakult szövegbetût (minuszkulát/kisbetût) és a régi római feliratokból átvett kezdõbetût (majuszkulát/nagybetût).
+   A kézisajtó korában a betûk sokszorosításának Johannes Gutenberg által kifejlesztett eljárása érvényesült, vagyis a könyvnyomtatás alapanyaga a patrica és a matrica alapján öntés útján sokszorosított ólombetû volt. Kezdetben vésnökök és fémmûvesek, ötvösök készítették a betûk metszését, majd betûmetszõk végezték ezt a mûvészi igényû munkát. A betûmetszõk rendkívül kemény fémbõl egyéni rajzú betûket véstek. Ez a patrica, amely alapján kemény fémötvözetû betûnegatívot, azaz matricát készítettek. Ez a módszer a 19. század elejéig szinte alig változott. A patricák alapján készültek a matricák. Míg a patrica egyedi darab volt, addig a matricából több is készülhetett. A korlátlan számú ólombetû öntése a matrica segítségével történt. 
+Bélyegzõvas (azaz patrica) és matricaÖntõkészülékBetûöntõ (Jost Amman fametszete)3. A könyv nyomtatása 
+3.1 A szedõ és a szedõszekrény
+A szedõ ábrázolása munka közbenA debreceni nyomda szedõszekrényeinek beosztása 1697-bõl3.2 A nyomdász és a kézisajtó
+A nyomdász. Nyomtatómester (labdamester) ábrázolása korabeli nyomdászjegyenFestékezõ labda készítése lószõrbõl és bõrbõlA nyomtatósajtó legrégibb ábrázolása Badius Jodicus Ascensius francia nyomdász jelvényén4. Különbözõ századok nyomtatóprései
+   A nyomtatóprés ötletét a mezõgazdasági munkafolyamatból vett szõlõ- és olajpréselésnél alkalmazott technika és eszköz adhatta. Az technikai eljárás elve nem változott a XIX. század elejéig. 
+4.1 XV. századi nyomdai sajtók
+   A nyomtató munkások mindig párosával dolgoztak. Egyik volt a „labdák mestere”, a másik a „sajtómester”. Az elsõ feladata a forma festékezése volt, a sajtómester közben a befestékezett formára ráillesztette a papírt, leeresztette a rámát és a „dekli”, a taligát a tégely alá hajtotta, s a fordítókart kihúzva, végezte a nyomtatás mûveletét. 
+A sajtó XVI. századi ábrázolásaNürnbergi betûöntõ mester betûmintalapját szemléltetõ fametszetes kép (XVII. század)A nyomdászok és betûöntõk betûmintalapon mutatták be betûik választékát. Feltehetõen a Nürnbergi betûöntõ mester betûmintalapját szemléltetõ fametszetes kép az elsõ olyan ábrázolás, ahol a nyomóprés elemeit szétszedve szemléltetik (1607)
+A kép elõterében a sajtó a két nyomtató mesterrel, mellettük háttal a szedõ, a háttérben az ólombetûvel dolgozó betûöntõ látható.XVIII. századi sajtó 
+A képen megfigyelhetõ, hogy a nyomdai prés egyes elemeit ebben az idõszakban már fémbõl készítették.A sajtó XIX. század eleji ábrázolása 
+Öntöttvas nyomdai sajtó5. A könyv illusztrálása 
+Rajzoló
+Feladata a könyvekben szereplõ illusztrációk megtervezése és megrajzolása volt. A metszõk e rajzok alapján készítették el metszeteiket.Kártyafestõ
+A kártyafestõk a metszetek utólagos színezését végezték, leggyakrabban a kártyák színezését.Fametszõ
+A nagyobb nyomdák saját fametszõt foglalkoztattak, akik rajz alapján rendszerint körtefába metszették a kívánt illusztrációkat.6. Könyvkötés
+A könyvnyomtatás elterjedésével megnõtt a könyvek bekötésének igénye, ezzel együtt a könyvkötéssel foglalkozó mesterek száma is. A könyvnyomtatás korára a bõrkötés vált általánossá. A kötések készülhettek a nyomdai munkákkal közös mûhelyben, vagy önállóan dolgozó könyvkötõmesterek készítették azokat. A könyvkötõk gyakran egyúttal könyvkereskedõk is voltak, akik egyes távolabbi, nyomdával nem rendelkezõ településeket látogatva. terjesztették a könyveket.
+Könyvkötõmûhely 
+A könyvkötõk a XIX. századig mindent kézi munkával végeztek.A könyvkötés eszközei és munkafolyamataiA kézisajtó korának nyomdászata Magyarországon
+Az elsõ három század (1473–1635)
+A kézisajtó korának magyarországi nyomdászatát oly módon mutatjuk be, hogy az egyes nyomdák történetének, tevékenységének rövid, illusztrált bemutatásához kapcsolódik a „Clavis” adatbázis 15-16. szakasza. A „Clavis” adatbázis a magyarországi nyomdákat, nyomdászokat és nyomdahelyeket tartalmazza. A nyomdákkal összefüggésben nemcsak a nyomdászok nevét tartalmazza, hanem a könyvkiadót, tulajdonost/mecénást, faktort, betû-öntõt, metszõt is, amennyiben ezek név szerint ismertek. Az adatbázis idõhatára 1473-1600, vagyis az elsõ Magyarországon nyomtatott könyvtõl a XVI. század végéig. Keresni lehet a nyomda helyére, a nyomdára, személynévre (nyomdász, faktor, stb), a nyomda mûködésének idõkörére vagy ezek kombinációjára. A nyomdahelyek standard neve az adatbázisban az adott korszakban használatos magyar elnevezés, de keresni lehet minden más név-változatra is (a helységnév latin, német, stb. változatára). A nyomdák elnevezésénél a szakirodalomban már meghonosodott névformát használtuk. 
+Mindenegyes nyomdánál a mûhely rekonstruált felszerelése is megtalálható: betûkkel, könyvdíszekkel, nyomdászjelvényekkel, stb. Az adatbázis tehát lehetõséget ad arra is, hogy a használó fogalmat alkothasson egy-egy hazai nyomda teljes felszerelésérõl. 
+Az egyes hazai nyomdák tevékenységét nemcsak a „Clavis” segítségével mutatjuk be, hanem a kiadványok felõl is, azaz kapcsolódik a Régi Magyarországi Nyomtatványok elektronikus változatához. Ily módon minden egyes nyomda minden egyes kiadványának részletes leírása és címlapképe is csatlakozik az adatbázishoz.
+Könyvnyomtatás Magyarországon a XV. században: a magyarországi õsnyomdák (1473–1480)
+Magyarországon - amelynek földrajzi határa a mindenkori történelmi Magyarország Szlavóniával és Erdéllyel együtt - az õsnyomtatvány korszakban, vagyis a XV. században két mûhely dolgozott: Hess András budai mûhelye, és egy másik, legvalószínûbben Budán, esetleg Pozsonyban mûködõ tipográfia, amelynek tulajdonosa, illetve vezetõje ismeretlen. Magyarországon a könyvnyomtatás rendkívül korán, jó néhány európai országot is megelõzve honosodott meg (megelõzve Angliát és Spanyolországot), de ekkor még nem tudott tartósan megtelepedni. Õsnyomdáink rövid életûek voltak. A két nyomdai mûhely termékei közül ötbõl maradt fenn példány. 1480 utáni, Magyarországon készült õsnyomtatványról nincs tudomásunk.
+Könyvnyomtatás Magyarországon a XVI. században
+   Sem a XV. század utolsó, sem a következõ század elsõ évtizedeiben nem mûködött nyomda Magyarországon. A külföldön készült nyomtatott könyvek hazai terjesztésével budai kiadók és könyvárusok foglalkoztak. A magyarországi könyvnyomtatás újraindulása a Mohács utáni idõre, sõt legnagyobb részében az ország három részre szakadása utáni idõre esik. A XVI. századi Magyarország 29 nyomdahelyének mindegyike vagy a királyi Magyarországon, vagy az erdélyi fejedelemség területén helyezkedett el. A legújabb kutatások ugyan valószínûsítik, hogy a középsõ, a törökök által megszállt területen is mûködött rövid ideig egy unitárius nyomda, hódoltsági területen megjelent könyvrõl azonban egyelõre nem tudunk. 
+   A magyarországi nyomdászat sajátossága, hogy az ország három részre szakadásával a fõvárossal, Budával együtt a királyi udvar is elveszett a magyar kultúra számára mint összefogó, irányító centrum. Ugyanakkor egyes fõurak udvara átvette a kulturális központ szerepét. Ezzel magyarázható, hogy a XVI. századi nyomdák közül többet is fõurak alapítottak birtokközpontjukon, és mecénásként támogatták annak tevékenységét. A könyvnyomtató mûhelyek másik része mezõvárosokban vagy szabad királyi városokban telepedett meg, és a város, valamint az egyre erõsödõ protestáns egyházak támogatását élvezte. 
+   Az ország 29 nyomdahelyén azonban ennél jóval kevesebb, mindössze 19 mûhely dolgozott, mert a XVI. századi hazai nyomdák és nyomdászok közül többen öt-hat helységben is megfordultak. Ez azonban nem jelentett ennyi önálló mûhelyt: a XVI. századi hazai nyomdászat egyik sajátossága az állomáshelyüket változtató protestáns nyomdászok mûködése. Sajátságos, az európaitól eltérõ volt a nyomdák felekezeti megoszlása is: az 1570-es évek végéig az országban csak protestáns nyomdák mûködtek: mindössze a század utolsó negyedében csatlakozott az egyetlen tartósan mûködõ, nagyszombati katolikus nyomda, és a század végén egy rövid életû ferences mûhely.
+Az európai gyakorlattól eltérõen nálunk a XVI. század folyamán legritkább esetben vált külön a nyomdász és a kiadó: nyomdatulajdonosainknak szinte mindegyike nyomdász és kiadó volt egy személyben: bizonyos könyvek költségeit maguk vállalták, másokhoz mecénás anyagi támogatását is igénybe vették. A XVI. század hazai könyvtermését 1000 különféle kiadványra becsülhetjük, amelyeknek azonban csak mintegy felébõl maradt fenn példány.
+Könyvnyomtatás Magyarországon a XVII. század elsõ harmadában (1601–1635)
+A hazai nyomdászat most bemutatandó szakasza alatt folyamatossá vált a könyvnyomtatás Magyarországon. A korábbi mûhelyek közül a szebeni, brassói, debreceni, kolozsvári, nagyszombati, bártfai továbbra is mûködött, de melléjük újabb alapítások is csatlakoztak. Néhány mûhelyre továbbra is jellemzõ, hogy rövid életûek vagy székhelyüket többször változtatták, volt viszont négy olyan város, ahol korszakunkban egymást követõen, vagy egyidejûleg több mûhely is dolgozott (Kassa, Lõcse, Nagyszombat, Pozsony). Az 1601-1635 korszak alatt 16 helyen folyt Magyarországon könyvnyomtatás.
+A XVII. század elsõ harmadában mûködõ nyomdák továbbra is az ország nyugati- északnyugati és keleti (erdélyi) részén helyezkedtek el; nem volt nyomda a középsõ, hódoltsági területen. Az újonnan alapított mûhelyek közül az egyik fõúri alapítás, kettõt az esztergomi érsek alapított. Jelentõs, több generáción át mûködõ tipográfiát létesített Lõcse szabad királyi városában Brewer Lõrinc. Több évtizeden át folyamatos volt a könyvnyomtatás a felsõ-magyarországi Kassán, bár itt több mûhely váltotta egymást korszakunkban. Az erdélyi, korábban jelentõs nyomdák közül kevésbé termékeny Brassó és Szeben nyomdája, és továbbra is a Heltai-család kezén van a kolozsvári mûhely. Az 1623-ban Gyulafehérvárott létesített fejedelmi nyomda már Bethlen Gábor idejében is az egyik legtermékenyebb mûhellyé nõtte ki magát, elsõsorban tankönyvkiadása miatt.
+Felekezeti megoszlásuk szerint az országban továbbra is a protestánsok számára nyomtató mûhelyek voltak túlsúlyban: református, lutheránus és a Heltai-nyomda az unitáriusok számára is nyomtatott. Katolikus mûhely mindössze egy mûködött, hol Nagyszombatban, hol Pozsonyban.
+   A korszak könyvtermése mintegy 900-féle mû, nyelvi megoszlásában a legtöbb a latin, utána a magyar és jelentõsen kisebb számban szerepelnek a német nyelvû mûvek. A kiadványokból rekonstruálhatóan a nyomdák általában egy sajtóval dolgoztak, átlagosan 20-féle betûtípus közül válogathattak és könyveiket ritka kivételektõl eltekintve fametszetekkel díszítették. Rézmetszetû címlappal ellátott könyvek a protestáns keresztúri nyomdában és a katolikus pozsonyi nyomdában készültek.
+Nyomdák Magyarországon (XV-XVII. század) 
+Magyarországi nyomdák:
+XV. század:
+* Hess-nyomda (1472-1473)
+* Confessionale-nyomda (1477-1480)
+XVI. század:
+* A szebeni városi nyomda (1525-1531, 1575-1601)
+* Sylvester-nyomda (1536-1541)
+* Honterus-nyomda (1539-1594)
+* Philip diakónus nyomdája (1544-1552)
+* Hoffgreff-Heltai-nyomda (1550-1600–) 
+* Coresi diakónus nyomdája (1557-1588)
+* Huszár Gál és Huszár Dávid nyomdája (1558-1577)
+* A debreceni városi nyomda (1561-1600–)
+* Hoffhalter-nyomda (1565-1590)
+* Lorinþ diakónus nyomdája (1567-1579)
+* Karádi-nyomda (1569)
+* Bornemisza-Mantskovit-nyomda (1573-1599)
+* Gutgesell-nyomda (1577-1599)
+* Telegdi-nyomda (1578-1609–)
+* Scholtz-nyomda (1578)
+* Manlius-nyomda (1582-1600–)
+* Ferences-nyomda (1593-1599)
+* Walo-nyomda (?) (1594)
+* Klöss-nyomda (1597-1600–)
+XVII. század elsõ harmada (1601-1635):
+* Szebeni városi nyomda (1525–) 1601–
+* A brassói városi nyomda 1625–
+* Heltai-nyomda (1550–) 1601–
+* Debreceni városi nyomda (1561–) 1601–
+* Káptalani nyomda (korábbi Telegdi-nyomda) (1578–) 1601–1609
+* Nyugat-dunántúli evangélikus nyomda (korábbi Manlius-nyomda) (1582-) 1601–
+* A Klöss-nyomda Lõcsén és Bártfán (1597–) 1601–
+* Érseki nyomda 1609–1620
+* Fischer-Fest-nyomda 1610–1622 
+* A dunántúli reformátusok nyomdája Németújváron és Pápán 1617–
+* Fejedelmi nyomda Kassán és Gyulafehérvárott 1621–
+* Soproni városi nyomda? 1622?
+* Jezsuita akadémiai nyomda 1623–
+* Brewer-nyomda 1625–
+* A Schultz-nyomda Lõcsén és Kassán 1617–
+Magyarországi nyomdahelyek:
+XV. század:
+* Buda
+* Pozsony (?)
+XVI. század:
+* Abrudbánya (Abrud, RO)
+* Alsólendva (Dolnja Lendava, SL)
+* Bártfa (Bardejov, SK) - Gutgesell
+* Bártfa (Bardejov, SK) - Klöss
+* Besztercebánya (Banská Bystrica, SK)
+* Brassó (Braºov, RO)- Honterus
+* Brassó (Braºov, RO)- Coresi diakónus nyomdája
+* Debrecen
+* Detrekõ (Plavecký Hrad, SK)
+* Galgóc (Hlohovec, SK)
+* Gyulafehérvár (Alba Iulia, RO)
+* Kassa (Košice, SK)
+* Keresztúr 
+* Kolozsvár (Cluj-Napoca, RO)
+* Komjáti (Komjatice, SK)
+* Monyorókerék (Eberau, A)
+* Nagyszombat (Trnava, SK)
+* Nedelic/Drávavásárhely (Nedelišèe, HR)
+* Sicz /Németlövõ (Deutsch-Schützen, A)
+* Németújvár (Güssing, A)
+* Óvár (Mosonmagyaróvár)
+* Pápa
+* Pozsony (?) (Bratislava, SK)
+* Rárbok (Rohožnik, SK)
+* Sárvár-Újsziget (Sárvár)
+* Sempte (Sintava, SK) 
+* Simánd (ªimandul-de-Jos, RO)
+* Szászsebes (Sebeº, RO)
+* Szászváros (Orâºtie, RO) 
+* Szeben (Sibiu, RO) - Philip diakónus nyomdája 
+* Szeben (Sibiu, RO) - városi nyomda 
+* Temesvár (Timiºoara, RO) 
+* Várad (Oradea, RO)
+* Varasd
+* Vimpác (Wimpassing an der Leitha, A)
+* Vizsoly
+XVII. század elsõ harmada (1601-1635):
+* Bártfa (Bardejov, SK)
+* Brassó (Braºov, RO)
+* Csepreg
+* Debrecen
+* Gyulafehérvár (Alba Iulia, RO)
+* Kassa (Košice, SK) - Fischer
+* Kassa (Košice, SK) - Schultz 
+* Kassa (Košice, SK) - fejedelmi 
+* Keresztúr (Deutschkreutz, A)
+* Kolozsvár (Cluj-Napoca, RO)
+* Lõcse (Levoèa, SK) - Brewer 
+* Lõcse (Levoèa, SK) - Schultz
+* Lõcse (Levoèa, SK) - Klöss 
+* Nagyszombat (Trnava, SK) - Káptalani 
+* Nagyszombat (Trnava, SK) - Érseki 
+* Németújvár (Güssing, A)
+* Pápa
+* Pozsony (Bratislava, SK)
+* Sárvár
+* Sopron?
+* Szeben (Sibiu, RO)

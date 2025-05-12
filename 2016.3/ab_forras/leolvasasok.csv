@@ -1,0 +1,139 @@
+﻿ugyfel_nev;merohely_id;merohely_cim;datum;gazora_szama;gazora_allas;leolvasas_jellege;leolvasas_forrasa;dolgozo_neve
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.01.14;G120011;2;1;D12;Aladin Albert
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.02.13;G120011;91;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.03.15;G120011;183;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.03.24;G12063;0;1;D11;Gáz Géza
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.04.10;G12063;101;2;D17;Dob Dániel
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.04.14;G120011;279;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.05.11;G12063;197;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.05.14;G120011;300;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.06.11;G12063;301;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.06.13;G120011;351;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.07.12;G12063;399;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.07.13;G120011;421;2;D15;Nemes Noémi
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.08.12;G120011;421;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.08.12;G12063;501;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.09.11;G120011;489;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.09.12;G12063;603;2;becslés;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.10.11;G120011;500;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.10.13;G12063;700;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.11.10;G120011;555;2;ügyfél;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.11.13;G12063;808;0;D11;Gáz Géza
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.11.13;G113600;0;1;D11;Gáz Géza
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2015.11.23;G21902;0;1;D11;Gáz Géza
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2015.11.25;G21313;13;1;D11;Gáz Géza
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2015.12.10;G120011;630;2;ügyfél;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2015.12.12;G21313;83;2;D15;Nemes Noémi
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2015.12.14;G113600;80;2;becslés;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2015.12.14;G21902;85;2;D14;Hirtelen Helén
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.01.11;G21313;161;2;D15;Nemes Noémi
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.01.12;G120011;718;0;D12;Aladin Albert
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.01.12;G011222;3;1;D12;Aladin Albert
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.01.13;G21313;213;0;D12;Aladin Albert
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.01.13;G21202;2;1;D12;Aladin Albert
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.01.13;G21902;163;2;D17;Dob Dániel
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.01.14;G113600;160;2;becslés;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.02.10;G21202;87;2;D15;Nemes Noémi
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.02.11;G011222;63;2;becslés;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.02.12;G21902;255;2;D14;Hirtelen Helén
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.02.14;G113600;240;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.02.14;G21987;3;1;D12;Aladin Albert
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.03.11;G21202;176;2;D15;Nemes Noémi
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.03.12;G011222;123;2;becslés;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.03.13;G21902;332;2;D14;Hirtelen Helén
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.03.15;G113600;320;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.03.15;G21987;101;2;D17;Dob Dániel
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.04.09;G22002;0;1;D11;Gáz Géza
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.04.10;G21202;251;2;D15;Nemes Noémi
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.04.11;G011222;183;2;becslés;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.04.12;G21902;408;2;D14;Hirtelen Helén
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.04.14;G113600;400;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.04.14;G21987;193;2;D17;Dob Dániel
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.05.11;G011222;243;2;becslés;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.05.11;G21202;303;2;D15;Nemes Noémi
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.05.11;G22002;69;2;ügyfél;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.05.12;G21902;471;2;D14;Hirtelen Helén
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.05.14;G113600;480;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.05.14;G21987;288;2;D17;Dob Dániel
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.05.15;G23022;0;1;D11;Gáz Géza
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.06.10;G011222;303;2;becslés;
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.06.10;G23022;1;2;ügyfél;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.06.11;G21202;342;2;D15;Nemes Noémi
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.06.11;G21902;524;2;D14;Hirtelen Helén
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.06.12;G22002;132;2;D17;Dob Dániel
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.06.12;G23104;0;1;D12;Aladin Albert
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.06.13;G113600;560;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.06.13;G21987;340;2;D17;Dob Dániel
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.07.10;G23022;1;2;ügyfél;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.07.11;G21902;569;2;D14;Hirtelen Helén
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.07.12;G21202;413;2;D15;Nemes Noémi
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.07.13;G011222;363;2;becslés;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.07.13;G113600;640;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.07.13;G21987;413;2;D17;Dob Dániel
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.07.13;G23104;1;2;D17;Dob Dániel
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.07.14;G22002;164;2;ügyfél;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.08.10;G21902;613;2;D14;Hirtelen Helén
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.08.12;G011222;423;2;becslés;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.08.12;G113600;720;2;becslés;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.08.12;G21202;413;2;D15;Nemes Noémi
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.08.12;G21987;470;2;D17;Dob Dániel
+Kocsis Mária;M2009;1181 Budapest Szélmalom u. 123/a;2016.08.12;G23202;1;1;D11;Gáz Géza
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.08.14;G23104;1;2;D17;Dob Dániel
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.08.15;G22002;192;2;ügyfél;
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.08.15;G23022;1;2;ügyfél;
+Kovács István;M2010;1201 Budapest Nagy tér 11;2016.08.31;G23313;0;1;D12;Aladin Albert
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.09.10;G23022;1;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.09.11;G011222;483;2;becslés;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.09.11;G113600;800;2;becslés;
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.09.11;G21902;681;2;D14;Hirtelen Helén
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.09.11;G21987;512;2;D17;Dob Dániel
+Kovács István;M2010;1201 Budapest Nagy tér 11;2016.09.11;G23313;23;2;ügyfél;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.09.12;G21202;456;2;D15;Nemes Noémi
+Kocsis Mária;M2009;1181 Budapest Szélmalom u. 123/a;2016.09.13;G23202;51;2;D15;Nemes Noémi
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.09.14;G22002;213;2;ügyfél;
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.09.15;G23104;1;2;D17;Dob Dániel
+Dupla Dezső;M2011;1182 Budapest Üllői út 232;2016.09.29;G23402;0;1;D12;Aladin Albert
+Lakatos Ede;M2012;1201 Budapest Alma u. 1;2016.09.29;G23413;13;1;D11;Gáz Géza
+Kocsis Mária;M2009;1181 Budapest Szélmalom u. 123/a;2016.10.10;G23202;143;2;D17;Dob Dániel
+Dupla Dezső;M2011;1182 Budapest Üllői út 232;2016.10.10;G23402;16;2;ügyfél;
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.10.11;G011222;543;2;becslés;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.10.11;G113600;880;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.10.11;G21987;601;2;D17;Dob Dániel
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.10.11;G23104;64;2;D17;Dob Dániel
+Kovács István;M2010;1201 Budapest Nagy tér 11;2016.10.11;G23313;65;2;D14;Hirtelen Helén
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.10.12;G23022;1;2;ügyfél;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.10.13;G21202;512;2;D15;Nemes Noémi
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.10.13;G21902;777;2;D14;Hirtelen Helén
+Lakatos Ede;M2012;1201 Budapest Alma u. 1;2016.10.13;G23413;63;2;D14;Hirtelen Helén
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.10.14;G22002;267;2;ügyfél;
+Nagy Éva;M2013;1181 Budapest  Kossuth u. 34;2016.10.29;G23416;1;1;D11;Gáz Géza
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.11.10;G011222;603;2;becslés;
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.11.10;G113600;921;2;D11;Gáz Géza
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.11.10;G21902;871;2;D14;Hirtelen Helén
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.11.10;G21987;709;2;D17;Dob Dániel
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.11.10;G23104;133;2;D17;Dob Dániel
+Nagy Éva;M2013;1181 Budapest  Kossuth u. 34;2016.11.10;G23416;73;2;D15;Nemes Noémi
+Balogh Zoltán;M2018;1182 Budapest Üllői út 233;2016.11.10;G23431;0;1;D12;Aladin Albert
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.11.11;G23022;71;2;ügyfél;
+Dupla Dezső;M2011;1182 Budapest Üllői út 232;2016.11.11;G23402;79;2;ügyfél;
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.11.13;G21202;603;2;D15;Nemes Noémi
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.11.13;G22002;358;2;ügyfél;
+Lakatos Ede;M2012;1201 Budapest Alma u. 1;2016.11.14;G23413;139;2;D14;Hirtelen Helén
+Kocsis Mária;M2009;1181 Budapest Szélmalom u. 123/a;2016.11.15;G23202;261;2;D15;Nemes Noémi
+Kovács István;M2010;1201 Budapest Nagy tér 11;2016.11.15;G23313;113;0;D12;Aladin Albert
+Czingár Béla;M2001;1181 Budapest  Baross u. 112;2016.12.10;G011222;630;2;D15;Nemes Noémi
+Balogh Zoltán;M2002;1182 Budapest  Üllői út 234;2016.12.10;G113600;1001;2;becslés;
+Kis Lajos;M2005;1182 Budapest Csörötnek u. 101;2016.12.10;G21987;815;2;D17;Dob Dániel
+Dupla Dezső;M2008;1182 Budapest Dolgozó út 2. I em. 4.;2016.12.11;G23104;212;2;D17;Dob Dániel
+Nagy Éva;M2013;1181 Budapest  Kossuth u. 34;2016.12.11;G23416;151;2;D15;Nemes Noémi
+Kétházi Károly;M2004;1202 Budapest Fő u. 2;2016.12.12;G21902;987;2;D14;Hirtelen Helén
+Kocsis Mária;M2009;1181 Budapest Szélmalom u. 123/a;2016.12.12;G23202;303;2;D15;Nemes Noémi
+Dupla Dezső;M2011;1182 Budapest Üllői út 232;2016.12.12;G23402;156;2;D17;Dob Dániel
+Balogh Zoltán;M2018;1182 Budapest Üllői út 233;2016.12.12;G23431;69;2;D17;Dob Dániel
+Kétházi Károly;M2006;1182 Budapest Kis u. 1;2016.12.13;G22002;449;2;D17;Dob Dániel
+Borsó Bálint;M2003;1181 Budapest Dobozi u. 23;2016.12.14;G21202;698;2;D15;Nemes Noémi
+Kiss Lajos;M2007;1201 Budapest Erzsébet tér 2. fszt 3.;2016.12.14;G23022;144;2;D14;Hirtelen Helén
+Kis Lajos;M2015;1201 Budapest Erzsébet tér 2. fszt 1.;2016.12.14;G23429;0;1;D12;Aladin Albert
+Kis Lajos;M2020;1201 Budapest Erzsébet tér 2. fszt 2.;2016.12.14;G23456;3;1;D12;Aladin Albert
+Lakatos Ede;M2012;1201 Budapest Alma u. 1;2016.12.15;G23413;220;0;D12;Aladin Albert
+Kis Vilmos;M2019;1181 Budapest Baross u. 63;2016.12.15;G23445;0;1;D11;Gáz Géza
